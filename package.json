@@ -1,0 +1,14 @@
+{
+  "name": "voterbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vote.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Delap",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^20.3.0"
+  }
+}
