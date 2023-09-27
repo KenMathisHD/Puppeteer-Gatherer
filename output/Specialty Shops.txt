@@ -1,0 +1,163 @@
+{
+  "status": {
+    "top": {
+      "imageData": {
+        "image": {
+          "mobileSrc": "https://bjs.scene7.com/is/image/bjs/Shops_CLP_Mobile",
+          "desktopSrc": "https://bjs.scene7.com/is/image/bjs/Shops_CLP_Full",
+          "alt": "Shops - specialty and curated shops!"
+        },
+        "clickthrough": "Not Clickable"
+      },
+      "textData": {
+        "clickthrough": {
+          "href": "https://www.bjs.com/category/grocery/specialty-shops/new-to-grocery/3000000000000248043",
+          "data-gtm-id": "ShopsCLP01",
+          "data-gtm-position": "ShopsCLP Top 01",
+          "data-gtm-name": "Shop All Shops",
+          "data-gtm-creative": "Shop All Shops"
+        },
+        "titleTextData": {
+          "title": "Just arrived! Explore our freshest inventory.",
+          "copy": "",
+          "cta": "Shop new to grocery"
+        }
+      }
+    },
+    "bubbles": {
+      "title": "Shop By Category",
+      "bubbles": [
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/specialty-shops/new-to-grocery/3000000000000248043",
+            "data-gtm-id": "PetCategory01",
+            "data-gtm-position": "Pet Category 01",
+            "data-gtm-name": "New To Grocery",
+            "data-gtm-creative": "New To Grocery"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/New_Arrivals_Cat",
+            "alt": "New To Grocery"
+          },
+          "label": "New To Grocery"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/specialty-shops/the-muffin-man/3000000000000248044",
+            "data-gtm-id": "PetCategory02",
+            "data-gtm-position": "Pet Category 02",
+            "data-gtm-name": "The Muffin Man",
+            "data-gtm-creative": "The Muffin Man"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/MuffinMan_SpecialtyShops_Cat",
+            "alt": "The Muffin Man"
+          },
+          "label": "The Muffin Man"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/specialty-shops/build-your-perfect-sandwich/3000000000000248040",
+            "data-gtm-id": "PetCategory03",
+            "data-gtm-position": "Pet Category 03",
+            "data-gtm-name": "Build Your Perfect Sandwich",
+            "data-gtm-creative": "Build Your Perfect Sandwich"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Sandwich_Shops_Cat",
+            "alt": "Build Your Perfect Sandwich"
+          },
+          "label": "Build Your Perfect Sandwich"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/specialty-shops/build-your-own-charcuterie-board/3000000000000248039",
+            "data-gtm-id": "PetCategory04",
+            "data-gtm-position": "Pet Category 04",
+            "data-gtm-name": "Build Your Own Charcuterie Board",
+            "data-gtm-creative": "Build Your Own Charcuterie Board"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Charcuterie_Shops_Cat",
+            "alt": "Build Your Own Charcuterie Board"
+          },
+          "label": "Build Your Own Charcuterie Board"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/specialty-shops/game-day-foods/3000000000000235489",
+            "data-gtm-id": "PetCategory05",
+            "data-gtm-position": "Pet Category 05",
+            "data-gtm-name": "Game Day Foods",
+            "data-gtm-creative": "Game Day Foods"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/GameDay_Foods",
+            "alt": "Game Day Foods"
+          },
+          "label": "Game Day Foods"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/specialty-shops/cravings/3000000000000248041",
+            "data-gtm-id": "PetCategory06",
+            "data-gtm-position": "Pet Category 06",
+            "data-gtm-name": "Cravings",
+            "data-gtm-creative": "Cravings"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Cravings_Shops_Cat",
+            "alt": "Cravings"
+          },
+          "label": "Cravings"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/specialty-shops/kid-s-grocery/3000000000000248042",
+            "data-gtm-id": "PetCategory07",
+            "data-gtm-position": "Pet Category 07",
+            "data-gtm-name": "Kid's Grocery",
+            "data-gtm-creative": "Kid's Grocery"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/KidsGrocery_Shops_Cat",
+            "alt": "Kid's Grocery"
+          },
+          "label": "Kid's Grocery"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/seasonal/summer-seasonal/build-your-own-ice-cream-sundae/3000000000000251490",
+            "data-gtm-id": "PetCategory08",
+            "data-gtm-position": "Pet Category 08",
+            "data-gtm-name": "Build Your Own Ice Cream Sundae",
+            "data-gtm-creative": "Build Your Own Ice Cream Sundae"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/230728_Sundae_Cat",
+            "alt": "Build Your Own Ice Cream Sundae"
+          },
+          "label": "Build Your Own Ice Cream Sundae"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/specialty-shops/build-your-own-pizza/3000000000000255992",
+            "data-gtm-id": "PetCategory09",
+            "data-gtm-position": "Pet Category 09",
+            "data-gtm-name": "Build Your Own Pizza",
+            "data-gtm-creative": "Build Your Own Pizza"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/BYO_Pizza_Cat",
+            "alt": "Build Your Own Pizza"
+          },
+          "label": "Build Your Own Pizza"
+        }
+      ]
+    },
+    "bottom": {
+      "cards": []
+    },
+    "seo": ""
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "status": {
+    "top": {
+      "imageData": {
+        "image": {
+          "mobileSrc": "https://bjs.scene7.com/is/image/bjs/Candy_CLP_Mobile",
+          "desktopSrc": "https://bjs.scene7.com/is/image/bjs/Candy_CLP_Full",
+          "alt": "Candy - sweet stuff for your sweet tooth!"
+        },
+        "clickthrough": "Not Clickable"
+      },
+      "textData": {
+        "clickthrough": {
+          "href": "https://www.bjs.com/category/grocery/candy/3000000000000248000?ShopAll=Y&template=clp",
+          "data-gtm-id": "CandyCLP01",
+          "data-gtm-position": "CandyCLP Top 01",
+          "data-gtm-name": "Shop All Candy",
+          "data-gtm-creative": "Shop All Candy"
+        },
+        "titleTextData": {
+          "title": "Make every occasion sweet & special.",
+          "copy": "",
+          "cta": "Shop all candy"
+        }
+      }
+    },
+    "bubbles": {
+      "title": "Shop By Category",
+      "bubbles": [
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/candy/chocolate/3000000000000248001",
+            "data-gtm-id": "PetCategory01",
+            "data-gtm-position": "Pet Category 01",
+            "data-gtm-name": "Chocolate",
+            "data-gtm-creative": "Chocolate"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Chocolate_Candy_Cat",
+            "alt": "Chocolate"
+          },
+          "label": "Chocolate"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/candy/gummy-hard-and-chewy-candy/3000000000000162987",
+            "data-gtm-id": "PetCategory02",
+            "data-gtm-position": "Pet Category 02",
+            "data-gtm-name": "Gummy, Hard & Chewy Candy",
+            "data-gtm-creative": "Gummy, Hard & Chewy Candy"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Gummy_Candy_Cat",
+            "alt": "Gummy, Hard & Chewy Candy"
+          },
+          "label": "Gummy, Hard & Chewy Candy"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/candy/gum-and-mints/3000000000000248012",
+            "data-gtm-id": "PetCategory03",
+            "data-gtm-position": "Pet Category 03",
+            "data-gtm-name": "Gum & Mints",
+            "data-gtm-creative": "Gum & Mints"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Gum_Candy_Cat",
+            "alt": "Gums & Mints"
+          },
+          "label": "Gum & Mints"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/candy/halloween-candy-and-snacks/3000000000000156485",
+            "data-gtm-id": "PetCategory04",
+            "data-gtm-position": "Pet Category 04",
+            "data-gtm-name": "Halloween Candy & Snacks",
+            "data-gtm-creative": "Halloween Candy & Snacks"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Candy_Halloween_Cat",
+            "alt": "Halloween Candy & Snacks"
+          },
+          "label": "Halloween Candy & Snacks"
+        }
+      ]
+    },
+    "bottom": {
+      "cards": [
+        {
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Cravings_CLP_3x",
+            "alt": "Go ahead, give in. Get what you really want, no judgement here. Click here to shop cravings"
+          },
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/grocery-shops/cravings/3000000000000248041",
+            "data-gtm-id": "Candy21",
+            "data-gtm-position": "CandyCLP Bottom 01",
+            "data-gtm-name": "Cravings",
+            "data-gtm-creative": "Cravings"
+          }
+        },
+        {
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/KidsCandy_CLP_3x",
+            "alt": "Parent approved. Treat the children in your life to something special. Click here to shop snacks for kids"
+          },
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/snacks/snacks-for-kids/3000000000000248052",
+            "data-gtm-id": "Candy22",
+            "data-gtm-position": "CandyCLP Bottom 02",
+            "data-gtm-name": "Snacks for Kids",
+            "data-gtm-creative": "Snacks for Kids"
+          }
+        },
+        {
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Cookies_CLP_3x",
+            "alt": "From crunchy to chewy. Explore everyones favorite made-for-sharing desserts. Click here to shop all cookies"
+          },
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/snacks/cookies/3000000000000117270",
+            "data-gtm-id": "Candy23",
+            "data-gtm-position": "CandyCLP Bottom 03",
+            "data-gtm-name": "Cookies",
+            "data-gtm-creative": "Cookies"
+          }
+        }
+      ]
+    },
+    "seo": {
+      "seo": "\n    <h2>Satisfy Your Sweet Tooth with Our Candy and Chocolates</h2>\n    <p>\n      Treats, Confectionery, Sweets, Snacks, and Desserts. Whatever you call\n      them, they are an essential part of life. And what could be better than\n      indulging in a range of candy assortments and chocolates? BJ’s Wholesale\n      Club’s selection of candy and chocolates are perfect for satisfying your\n      cravings and providing a delicious treat whenever you need one.\n    </p>\n\n    <ul>\n      <li>\n        <h3>Candy Assortments for Every Taste</h3>\n        <p>\n          Whether you prefer <a href=\"https://www.bjs.com/category/grocery/candy/gummy-hard-and-chewy-candy/3000000000000162987\">gummies, hard candy</a>, or flavored candies, BJ’s\n          candy assortments have something for everyone. Our premium candies\n          come in different pack sizes, making them a perfect snack for\n          on-the-go or for sharing with friends and family. We also offer a wide\n          selection of unique and flavored candies, ensuring that there is\n          something for everyone.\n        </p>\n      </li>\n\n      <li>\n        <h3>A Delightful Selection of Chocolates</h3>\n        <p>\n          Chocolates are a classic treat that never goes out of style. Our\n          selection of <a href=\"https://www.bjs.com/category/grocery/candy/chocolate/3000000000000248001\">chocolates</a> includes milk chocolate, dark chocolate, and\n          white chocolate, along with variations that offer something for\n          everyone. We also offer chocolate assortments, perfect for those who\n          can't decide on just one type of chocolate.\n        </p>\n      </li>\n\n      <li>\n        <h3>Health Benefits of Candy and Chocolates</h3>\n        <p>\n          Not only are candy and chocolates a treat for all occasions, but they\n          also have health benefits. Dark chocolate, for example, is a source of\n          antioxidants that can help protect your body from damage caused by\n          free radicals. Candy and chocolates make for great gift options as\n          well, perfect for special occasions or just to show someone you care.\n        </p>\n      </li>\n\n      <li>\n        <h3>A Must-Have for Sweet Tooth</h3>\n        <p>\n          Candy assortments and chocolates are a must-have for any sweet tooth.\n          Check out BJs.com for a range of options, from gummies and hard candy\n          to chocolate assortments, ensuring there is something for everyone.\n          So, whether you're looking for a snack, a treat, or a gift, our <a href=\"https://www.bjs.com/category/grocery/candy/gum-and-mints/3000000000000248012\">gum</a>, candy\n          assortments and chocolates are sure to satisfy. Treat yourself today!\n        </p>\n      </li>\n    </ul>\n  "
+    }
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "status": {
+    "top": {
+      "imageData": {
+        "image": {
+          "mobileSrc": "https://bjs.scene7.com/is/image/bjs/Grocery_CLP_Mobile",
+          "desktopSrc": "https://bjs.scene7.com/is/image/bjs/Grocery_CLP_Full",
+          "alt": "Grocery!"
+        },
+        "clickthrough": "Not Clickable"
+      },
+      "textData": {
+        "clickthrough": {
+          "href": "https://www.bjs.com/category/grocery/3000000000000244989?ShopAll=Y&template=clp&sortby=s4",
+          "data-gtm-id": "GroceryCLP01",
+          "data-gtm-position": "GroceryCLP Top 01",
+          "data-gtm-name": "Shop All Grocery",
+          "data-gtm-creative": "Shop All Grocery"
+        },
+        "titleTextData": {
+          "title": "Just arrived! Explore our freshest inventory.",
+          "copy": "",
+          "cta": "Shop all grocery"
+        }
+      }
+    },
+    "bubbles": {
+      "title": "Shop By Category",
+      "bubbles": [
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/specialty-shops/3000000000000248037",
+            "data-gtm-id": "PetCategory01",
+            "data-gtm-position": "Pet Category 01",
+            "data-gtm-name": "Specialty Shops",
+            "data-gtm-creative": "Specialty Shops"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/SpecialtyShops_Grocery_Cat",
+            "alt": "Specialty Shops"
+          },
+          "label": "Specialty Shops"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/wellsley-farms/3000000000000248053",
+            "data-gtm-id": "PetCategory02",
+            "data-gtm-position": "Pet Category 02",
+            "data-gtm-name": "Wellsley Farms",
+            "data-gtm-creative": "Wellsley Farms"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/WF_Pantry_Cat",
+            "alt": "Wellsley Farms"
+          },
+          "label": "Wellsley Farms"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/bakery/3000000000000247489",
+            "data-gtm-id": "PetCategory03",
+            "data-gtm-position": "Pet Category 03",
+            "data-gtm-name": "Bakery",
+            "data-gtm-creative": "Bakery"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Bakery_Grocery_Cat",
+            "alt": "Bakery"
+          },
+          "label": "Bakery"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/dairy/3000000000000248002",
+            "data-gtm-id": "PetCategory04",
+            "data-gtm-position": "Pet Category 04",
+            "data-gtm-name": "Dairy",
+            "data-gtm-creative": "Dairy"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Dairy_Grocery_Cat",
+            "alt": "Dairy"
+          },
+          "label": "Dairy"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/beverages/3000000000000018003",
+            "data-gtm-id": "PetCategory05",
+            "data-gtm-position": "Pet Category 05",
+            "data-gtm-name": "Beverages",
+            "data-gtm-creative": "Beverages"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Beverages_Grocery_Cat",
+            "alt": "Beverages"
+          },
+          "label": "Beverages"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/frozen-foods/3000000000000117306",
+            "data-gtm-id": "PetCategory06",
+            "data-gtm-position": "Pet Category 06",
+            "data-gtm-name": "Frozen Foods",
+            "data-gtm-creative": "Frozen Foods"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Frozen_Grocery_Cat",
+            "alt": "Frozen Foods"
+          },
+          "label": "Frozen Foods"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/meat/3000000000000248488",
+            "data-gtm-id": "PetCategory07",
+            "data-gtm-position": "Pet Category 07",
+            "data-gtm-name": "Meat",
+            "data-gtm-creative": "Meat"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Meat_Grocery_Cat",
+            "alt": "Meat"
+          },
+          "label": "Meat"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/produce/3000000000000248489",
+            "data-gtm-id": "PetCategory08",
+            "data-gtm-position": "Pet Category 08",
+            "data-gtm-name": "Produce",
+            "data-gtm-creative": "Produce"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Produce_Grocery_Cat",
+            "alt": "Produce"
+          },
+          "label": "Produce"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/deli/3000000000000248006",
+            "data-gtm-id": "PetCategory09",
+            "data-gtm-position": "Pet Category 09",
+            "data-gtm-name": "Deli",
+            "data-gtm-creative": "Deli"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Deli_Grocery_Cat",
+            "alt": "Deli"
+          },
+          "label": "Deli"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/prepared-foods/3000000000000248028",
+            "data-gtm-id": "PetCategory010",
+            "data-gtm-position": "Pet Category 010",
+            "data-gtm-name": "Prepared Foods",
+            "data-gtm-creative": "Prepared Foods"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/PreparedFood_Grocery_Cat",
+            "alt": "Prepared Foods"
+          },
+          "label": "Prepared Foods"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/seafood/3000000000000248490",
+            "data-gtm-id": "PetCategory011",
+            "data-gtm-position": "Pet Category 011",
+            "data-gtm-name": "Seafood",
+            "data-gtm-creative": "Seafood"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Seafood_Grocery_Cat",
+            "alt": "Seafood"
+          },
+          "label": "Seafood"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/pantry/3000000000000248018",
+            "data-gtm-id": "PetCategory012",
+            "data-gtm-position": "Pet Category 012",
+            "data-gtm-name": "Pantry",
+            "data-gtm-creative": "Pantry"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Pantry_Grocery_Cat",
+            "alt": "Pantry"
+          },
+          "label": "Pantry"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/candy/3000000000000248000",
+            "data-gtm-id": "PetCategory013",
+            "data-gtm-position": "Pet Category 013",
+            "data-gtm-name": "Candy",
+            "data-gtm-creative": "Candy"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Candy_Grocery_Cat",
+            "alt": "Candy"
+          },
+          "label": "Candy"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/snacks/3000000000000248054",
+            "data-gtm-id": "PetCategory014",
+            "data-gtm-position": "Pet Category 014",
+            "data-gtm-name": "Snacks",
+            "data-gtm-creative": "Snacks"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Snacks_Grocery_Cat",
+            "alt": "Snacks"
+          },
+          "label": "Snacks"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/baking-ingredients/3000000000000247503",
+            "data-gtm-id": "PetCategory015",
+            "data-gtm-position": "Pet Category 015",
+            "data-gtm-name": "Baking Ingredients",
+            "data-gtm-creative": "Baking Ingredients"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Baking_Grocery_Cat",
+            "alt": "Baking Ingredients"
+          },
+          "label": "Baking Ingredients"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/breakfast/3000000000000247998",
+            "data-gtm-id": "PetCategory016",
+            "data-gtm-position": "Pet Category 016",
+            "data-gtm-name": "Breakfast",
+            "data-gtm-creative": "Breakfast"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Breakfast_Grocery_Cat",
+            "alt": "Breakfast"
+          },
+          "label": "Breakfast"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/weight-loss-and-nutrition/3000000000000117222",
+            "data-gtm-id": "PetCategory017",
+            "data-gtm-position": "Pet Category 017",
+            "data-gtm-name": "Weight Loss & Nutrition",
+            "data-gtm-creative": "Weight Loss & Nutrition"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Supplements_Nutrition_Cat",
+            "alt": "Weight Loss & Nutrition"
+          },
+          "label": "Weight Loss & Nutrition"
+        }
+      ]
+    },
+    "bottom": {
+      "cards": [
+        {
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/CookoutClassics_CLP_3x",
+            "alt": "Job well-done. Fill your pantry and fridge with BBQ favorites. Click here to shop cookout classics"
+          },
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/seasonal-home/summer-seasonal/cookout-classics/3000000000000228989",
+            "data-gtm-id": "Grocery21",
+            "data-gtm-position": "GroceryCLP Bottom 01",
+            "data-gtm-name": "Cookout Classics",
+            "data-gtm-creative": "Cookout Classics"
+          }
+        },
+        {
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/FreshProduce_CLP_3x",
+            "alt": "Taste of freshness. Make fruits and vegetables part of every meal. Click here to shop fresh produce"
+          },
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/produce/3000000000000117249",
+            "data-gtm-id": "Grocery22",
+            "data-gtm-position": "GroceryCLP Bottom 02",
+            "data-gtm-name": "Fresh Produce",
+            "data-gtm-creative": "Fresh Produce"
+          }
+        },
+        {
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/BananaSplit_CLP_3x",
+            "alt": "Split a banana split. Treat everyone to a homemade sundae dessert today. Click here to shop now"
+          },
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery-household-and-pet/trending-foods/3000000000000243988",
+            "data-gtm-id": "Grocery23",
+            "data-gtm-position": "GroceryCLP Bottom 03",
+            "data-gtm-name": "Ice Cream",
+            "data-gtm-creative": "Ice Cream"
+          }
+        }
+      ]
+    },
+    "seo": {
+      "seo": "\n    <h2>One Stop Shop for Grocery Shopping</h2>\n\n    <p>\n      Embrace the convenience of grocery shopping from home with BJ's Wholesale\n      Club. Our online store provides an extensive range of high-quality\n      groceries, from fresh <a href=\"https://www.bjs.com/category/grocery/dairy/3000000000000248002\"> dairy</a> products to bulk <a href=\"https://www.bjs.com/category/grocery/snacks/3000000000000248054\">snacks</a>, all available for same-day\n      delivery or curbside pickup. Let us bring quality right to your doorstep!\n    </p>\n\n    <ul>\n      <li>\n        <h3>The Range of Fresh Produce Available</h3>\n\n        <p>\n          We take great pride in our fresh fruits and vegetables, sourced from\n          the best farms to ensure maximum quality. From a wide assortment of\n          organic produce for the health-conscious to the seasonal variety for\n          culinary enthusiasts, we offer a plethora of options to fill your\n          <a href=\"https://www.bjs.com/category/grocery/pantry/3000000000000248018\">pantry</a>.\n        </p>\n      </li>\n      <li>\n        <h3>The Quality and Freshness of Our Products</h3>\n\n        <p>\n          Quality is paramount at BJ's Wholesale Club, and we're committed to\n          providing only the freshest foods for our members. Our <a href=\"https://www.bjs.com/category/grocery/produce/3000000000000248489\"> produce</a> is\n          carefully selected and delivered daily, ensuring you receive\n          farm-fresh produce with every order.\n        </p>\n      </li>\n      <li>\n        <h3>Delicious Baked Goods and More</h3>\n\n        <p>\n          We're more than just a grocery store online. Enjoy our extensive\n          <a href=\"https://www.bjs.com/category/grocery/bakery/3000000000000247489\"> bakery</a> selection, featuring oversized <a href=\"https://www.bjs.com/category/grocery/bakery/cookie-doughnut-and-muffin-shop/3000000000000247492\"> muffins</a>, decadent <a href=\"https://www.bjs.com/category/grocery/bakery/breakfast-and-pastries/3000000000000247491\"> pastries</a>,\n          <a href=\"https://www.bjs.com/bakery\"> custom cakes</a>, hearty breads and more. From breakfast delights to\n          dessert indulgences, our bakery has it all.\n        </p>\n      </li>\n      <li>\n        <h3>Bulk Goods at Competitive Prices</h3>\n\n        <p>\n          Whether you're stocking up for the week or planning on serving\n          appetizers for a big event, our bulk goods selection has you covered.\n          Buy more and save more on your favorite products, from <a href=\"https://www.bjs.com/category/grocery/frozen-foods/3000000000000117306\"> frozen foods</a> to\n          snacks and <a href=\"https://www.bjs.com/category/grocery/beverages/3000000000000018003\">beverages</a>.\n        </p>\n      </li>\n    </ul>\n    <h2 class=\"mt-4\">Save Time with Same-Day Delivery and Curbside Pickup</h2>\n\n    <ul>\n      <li>\n        <h3>Fast Grocery Delivery</h3>\n\n        <p>\n          Enjoy the ease of having your groceries delivered right to your home.\n          Our <a href=\"https://www.bjs.com/search?visualVariant.nonvisualVariant.gbi_program_availability.gbi_shipping_and_pickup=Same-day%20Delivery\"> same-day delivery</a> service lets you order groceries online and\n          receive them on your doorstep in no time.\n        </p>\n      </li>\n      <li>\n        <h3>Convenient Curbside Pickup</h3>\n\n        <p>\n          Looking for a quick and contactless shopping experience? Choose our <a href=\"https://www.bjs.com/search?visualVariant.nonvisualVariant.gbi_program_availability.gbi_shipping_and_pickup=Pick%20Up%20In-Club\"> curbside pickup</a> option. Simply place your order online, and your\n          groceries will be ready for pickup at your preferred BJ's Wholesale\n          Club location.\n        </p>\n      </li>\n      <li>\n        <h3>Wellsley Farms: BJ's Exclusive Brand</h3>\n\n        <p>\n          Experience the quality and affordability of <a href=\"https://www.bjs.com/category/grocery/wellsley-farms/3000000000000248053\"> Wellsley Farms</a>, our\n          exclusive brand. From pantry staples to fresh <a href=\"https://www.bjs.com/category/grocery/meat/from-our-butcher/3000000000000248015\"> meats</a>, Wellsley Farms\n          offers a variety of products that guarantee great taste and value.\n        </p>\n      </li>\n      <li>\n        <h3>Start Shopping Now</h3>\n\n        <p>\n          There's a world of quality groceries waiting for you at BJ's Wholesale\n          Club. Start shopping now and experience the ease and convenience of\n          online grocery shopping with us. Your fresh and healthy groceries are\n          just a few clicks away!\n        </p>\n      </li>\n    </ul>\n  "
+    }
+  }
+}

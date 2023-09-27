@@ -1,0 +1,205 @@
+{
+  "status": {
+    "top": {
+      "imageData": {
+        "image": {
+          "mobileSrc": "https://bjs.scene7.com/is/image/bjs/Frozen_CLP_Mobile",
+          "desktopSrc": "https://bjs.scene7.com/is/image/bjs/Frozen_CLP_Full",
+          "alt": "Frozen - make yourself a fruity ice cream sundae!"
+        },
+        "clickthrough": "Not Clickable"
+      },
+      "textData": {
+        "clickthrough": {
+          "href": "https://www.bjs.com/category/grocery/frozen-foods/3000000000000117306?ShopAll=Y&template=clp",
+          "data-gtm-id": "FrozenCLP01",
+          "data-gtm-position": "FrozenCLP Top 01",
+          "data-gtm-name": "Shop All Frozen",
+          "data-gtm-creative": "Shop All Frozen"
+        },
+        "titleTextData": {
+          "title": "Quick meals & ingredients for busy families.",
+          "copy": "",
+          "cta": "Shop all frozen food"
+        }
+      }
+    },
+    "bubbles": {
+      "title": "Shop By Category",
+      "bubbles": [
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/wellsley-farms/wellsley-farms-frozen/3000000000000248014",
+            "data-gtm-id": "PetCategory01",
+            "data-gtm-position": "Pet Category 01",
+            "data-gtm-name": "Wellsley Farms Frozen",
+            "data-gtm-creative": "Wellsley Farms Frozen"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/WF_Frozen_Cat",
+            "alt": "Wellsley Farms Frozen"
+          },
+          "label": "Wellsley Farms Frozen"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/frozen-foods/frozen-appetizers-meals-and-entrees/3000000000000117307",
+            "data-gtm-id": "PetCategory02",
+            "data-gtm-position": "Pet Category 02",
+            "data-gtm-name": "Frozen Appetizers, Meals & Entrees",
+            "data-gtm-creative": "Frozen Appetizers, Meals & Entrees"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Appetizers_Frozen_Cat",
+            "alt": "Frozen Appetizers, Meals & Entrees"
+          },
+          "label": "Frozen Appetizers, Meals & Entrees"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/breakfast/frozen-breakfast-options/3000000000000117311",
+            "data-gtm-id": "PetCategory03",
+            "data-gtm-position": "Pet Category 03",
+            "data-gtm-name": "Frozen Breakfast Options",
+            "data-gtm-creative": "Frozen Breakfast Options"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Breakfast_Frozen_Cat",
+            "alt": "Frozen Breakfast Options"
+          },
+          "label": "Frozen Breakfast Options"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/frozen-foods/frozen-fruit-and-vegetables/3000000000000117326",
+            "data-gtm-id": "PetCategory04",
+            "data-gtm-position": "Pet Category 04",
+            "data-gtm-name": "Frozen Fruit & Vegetables",
+            "data-gtm-creative": "Frozen Fruit & Vegetables"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Veggies_Frozen_Cat",
+            "alt": "Frozen Fruit & Vegetables"
+          },
+          "label": "Frozen Fruit & Vegetables"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/frozen-foods/frozen-meat/3000000000000117318",
+            "data-gtm-id": "PetCategory05",
+            "data-gtm-position": "Pet Category 05",
+            "data-gtm-name": "Frozen Meat",
+            "data-gtm-creative": "Frozen Meat"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Meat_Frozen_Cat",
+            "alt": "Frozen Meat"
+          },
+          "label": "Frozen Meat"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/seafood/frozen-seafood/3000000000000117324",
+            "data-gtm-id": "PetCategory06",
+            "data-gtm-position": "Pet Category 06",
+            "data-gtm-name": "Frozen Seafood",
+            "data-gtm-creative": "Frozen Seafood"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Seafood_Frozen_Cat",
+            "alt": "Frozen Seafood"
+          },
+          "label": "Frozen Seafood"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/meat/frozen-plant-based-meat/3000000000000117319",
+            "data-gtm-id": "PetCategory07",
+            "data-gtm-position": "Pet Category 07",
+            "data-gtm-name": "Frozen Plant Based Meat",
+            "data-gtm-creative": "Frozen Plant Based Meat"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/PlantBased_Frozen_Cat",
+            "alt": "Frozen Plant Based Meat"
+          },
+          "label": "Frozen Plant Based Meat"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/frozen-foods/frozen-pizza-pasta-and-bread/3000000000000117321",
+            "data-gtm-id": "PetCategory08",
+            "data-gtm-position": "Pet Category 08",
+            "data-gtm-name": "Frozen Pizza, Pasta & Bread",
+            "data-gtm-creative": "Frozen Pizza, Pasta & Bread"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Pizza_Frozen_Cat",
+            "alt": "Frozen Pizza, Pasta & Bread"
+          },
+          "label": "Frozen Pizza, Pasta & Bread"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/frozen-foods/ice-cream-and-desserts/3000000000000117316",
+            "data-gtm-id": "PetCategory09",
+            "data-gtm-position": "Pet Category 09",
+            "data-gtm-name": "Ice Cream & Desserts",
+            "data-gtm-creative": "Ice Cream & Desserts"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/IceCream_Frozen_Cat",
+            "alt": "Ice Cream & Desserts"
+          },
+          "label": "Ice Cream & Desserts"
+        }
+      ]
+    },
+    "bottom": {
+      "cards": [
+        {
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/WF_Frozen_CLP_3x",
+            "alt": "Frozen means fast. Snacks & meals that can be ready when you need it. Click here to shop Wellsley Farms Frozen"
+          },
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/frozen-food/3000000000000248014",
+            "data-gtm-id": "Frozen21",
+            "data-gtm-position": "FrozenCLP Bottom 01",
+            "data-gtm-name": "Wellsley Farms Frozen",
+            "data-gtm-creative": "Wellsley Farms Frozen"
+          }
+        },
+        {
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/KidsGrocery_CLP_3x",
+            "alt": "What they ask for. Quick and easy foods for even the pickiest of eaters. Click here to shop kids grocery"
+          },
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/grocery-shops/kids-grocery/3000000000000248042",
+            "data-gtm-id": "Frozen22",
+            "data-gtm-position": "FrozenCLP Bottom 02",
+            "data-gtm-name": "Kids Grocery",
+            "data-gtm-creative": "Kids Grocery"
+          }
+        },
+        {
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/IceCream_CLP_3x",
+            "alt": "Ice cream dream. Explore your favorite flavor scoops & novelties. Click here to shop frozen desserts"
+          },
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/frozen-food/ice-cream-and-desserts/3000000000000117316",
+            "data-gtm-id": "Frozen23",
+            "data-gtm-position": "FrozenCLP Bottom 03",
+            "data-gtm-name": "Frozen Desserts",
+            "data-gtm-creative": "Frozen Desserts"
+          }
+        }
+      ]
+    },
+    "seo": {
+      "seo": "\n    <h2>The Convenience of Frozen Foods</h2>\n    <p>\n      Frozen foods have always been popular for their convenient and nutritious\n      options. BJ's Wholesale Club offers a wide selection of frozen foods that\n      cater to busy individuals.\n    </p>\n\n    <ul>\n      <li>\n        <h3>The Benefits of Frozen Foods</h3>\n        <p>\n          Frozen foods offer several benefits, including convenience, nutritious\n          options, and cost-effectiveness.\n        </p>\n      </li>\n      <li>\n        <h3>Convenience</h3>\n        <p>\n          Frozen foods are a time-saving option for busy individuals. They are\n          also easy to prepare, making mealtime a breeze.\n        </p>\n      </li>\n      <li>\n        <h3>Nutritious Options</h3>\n        <p>\n          Looking to have peace of mind knowing that you are feeding your family nutritious meals? At BJ's Wholesale Club you can select frozen foods at that are made with healthy ingredients\n          and are low in calories. \n        </p>\n      </li>\n      <li>\n        <h3>Cost-effective</h3>\n        <p>\n          Frozen foods are budget-friendly and prevent waste. You can stock up\n          on your favorite meals and snacks without breaking the bank. Stock the freezer with handy <a href=\"https://www.bjs.com/category/grocery/breakfast/frozen-breakfast-options/3000000000000117311\"> breakfast</a> sandwiches for the morning rush and <a href=\"https://www.bjs.com/category/grocery/frozen-foods/ice-cream-and-desserts/3000000000000117316\"> ice cream</a> for an after school treat.\n        </p>\n      </li>\n      <li>\n        <h3>Frozen Appetizers and Meals at BJ's Wholesale Club</h3>\n        <p>\n          BJ's Wholesale Club offers a wide selection of frozen meals and\n          appetizers. Our top-rated frozen meals include <a href=\"https://www.bjs.com/category/grocery/wellsley-farms/from-our-wellsley-farms-frozen/3000000000000248014\"> Wellsley Farms</a> chicken,\n          frozen dinners for one, <a href=\"https://www.bjs.com/category/grocery/frozen-foods/frozen-plant-based-meat/3000000000000117319\"> plant-based meat alternatives</a>, <a href=\"https://www.bjs.com/category/grocery/frozen-foods/frozen-pizza-pasta-and-bread/3000000000000117321\"> pizzas</a>, and a variety of <a href=\"https://www.bjs.com/category/grocery/frozen-foods/frozen-appetizers-meals-and-entrees/3000000000000117307\">appetizers</a> for parties.\n        </p>\n      </li>\n\n      <li>\n        <h3>Quality Guaranteed</h3>\n        <p>\n          At BJ's Wholesale Club, we take great care to ensure that our frozen\n          foods are of the highest quality. Our frozen foods are made with fresh\n          ingredients and are expertly prepared.\n        </p>\n      </li>\n\n      <li>\n        <h3>How to Shop for Frozen Foods at BJ's Wholesale Club</h3>\n        <p>\n          Shopping for frozen foods at BJ's Wholesale Club is easy and\n          convenient. You can order online or shop in-club. We also offer\n          <a href=\"https://www.bjs.com/search?visualVariant.nonvisualVariant.gbi_program_availability.gbi_shipping_and_pickup=Same-day%20Delivery\"> same-day delivery</a> options for your convenience. Shop now for your favorite frozen foods and enjoy the convenience and quality that <a href=\"https://www.bjs.com/\"> BJs.com</a> has to offer.\n        </p>\n      </li>\n    </ul>\n  "
+    }
+  }
+}

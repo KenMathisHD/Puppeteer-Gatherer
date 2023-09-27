@@ -1,0 +1,149 @@
+{
+  "status": {
+    "top": {
+      "imageData": {
+        "image": {
+          "mobileSrc": "https://bjs.scene7.com/is/image/bjs/Deli_CLP_Mobile",
+          "desktopSrc": "https://bjs.scene7.com/is/image/bjs/Deli_CLP_Full",
+          "alt": "Deli - meats and cheeses and platters!"
+        },
+        "clickthrough": "Not Clickable"
+      },
+      "textData": {
+        "clickthrough": {
+          "href": "https://www.bjs.com/category/grocery/deli/3000000000000248006?ShopAll=Y&template=clp",
+          "data-gtm-id": "DeliCLP01",
+          "data-gtm-position": "DeliCLP Top 01",
+          "data-gtm-name": "Shop All Deli",
+          "data-gtm-creative": "Shop All Deli"
+        },
+        "titleTextData": {
+          "title": "Stack the sandwiches of your dreams.",
+          "copy": "",
+          "cta": "Shop all deli"
+        }
+      }
+    },
+    "bubbles": {
+      "title": "Shop By Category",
+      "bubbles": [
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/deli/wellsley-farms-deli/3000000000000248009",
+            "data-gtm-id": "PetCategory01",
+            "data-gtm-position": "Pet Category 01",
+            "data-gtm-name": "Wellsley Farms Deli",
+            "data-gtm-creative": "Wellsley Farms Deli"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/WF_Pantry_Cat",
+            "alt": "Wellsley Farms Deli"
+          },
+          "label": "Wellsley Farms Deli"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/deli/service-deli-meat-and-cheese/3000000000000248011",
+            "data-gtm-id": "PetCategory02",
+            "data-gtm-position": "Pet Category 02",
+            "data-gtm-name": "Service Deli Meat & Cheese",
+            "data-gtm-creative": "Service Deli Meat & Cheese"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Service_Deli_Cat",
+            "alt": "Service Deli Meat & Cheese"
+          },
+          "label": "Service Deli Meat & Cheese"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/deli/packaged-lunch-meat-and-cheese/3000000000000248010",
+            "data-gtm-id": "PetCategory03",
+            "data-gtm-position": "Pet Category 03",
+            "data-gtm-name": "Packaged Lunch Meat & Cheese",
+            "data-gtm-creative": "Packaged Lunch Meat & Cheese"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Packaged_Deli_Cat",
+            "alt": "Packaged Lunch Meat & Cheese"
+          },
+          "label": "Packaged Lunch Meat & Cheese"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/deli/specialty-cheese-and-charcuterie/3000000000000248013",
+            "data-gtm-id": "PetCategory04",
+            "data-gtm-position": "Pet Category 04",
+            "data-gtm-name": "Specialty Cheese & Charcuterie",
+            "data-gtm-creative": "Specialty Cheese & Charcuterie"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Special_Deli_Cat",
+            "alt": "Specialty Cheese & Charcuterie"
+          },
+          "label": "Specialty Cheese & Charcuterie"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/deli/bacon-hot-dogs-and-sausage/3000000000000248007",
+            "data-gtm-id": "PetCategory05",
+            "data-gtm-position": "Pet Category 05",
+            "data-gtm-name": "Bacon, Hot Dogs & Sausage",
+            "data-gtm-creative": "Bacon, Hot Dogs & Sausage"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Bacon_Deli_Cat",
+            "alt": "Bacon, Hot Dogs & Sausage"
+          },
+          "label": "Bacon, Hot Dogs & Sausage"
+        }
+      ]
+    },
+    "bottom": {
+      "cards": [
+        {
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Sandwiches_CLP_3x",
+            "alt": "Layer on the deliciousness. The best sandwich starts with the best ingredients. Click here to shop sandwiches"
+          },
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/grocery-shops/build-your-own-sandwich/3000000000000248040",
+            "data-gtm-id": "Deli21",
+            "data-gtm-position": "DeliCLP Bottom 01",
+            "data-gtm-name": "Sandwiches",
+            "data-gtm-creative": "Sandwiches"
+          }
+        },
+        {
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Charcuterie_CLP_3x",
+            "alt": "Build your best board. Create the perfect spread with meats, cheeses and more. Click here to shop charcuterie"
+          },
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/specialty-shops/build-your-own-charcuterie-board/3000000000000248039",
+            "data-gtm-id": "Deli22",
+            "data-gtm-position": "DeliCLP Bottom 02",
+            "data-gtm-name": "Charcuterie",
+            "data-gtm-creative": "Charcuterie"
+          }
+        },
+        {
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Deli_CLP_3x",
+            "alt": "Quality by the slice. As fresh as your local delicatessen. Click here to shop deli"
+          },
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/deli/wellsley-farms-deli/3000000000000248009",
+            "data-gtm-id": "Deli23",
+            "data-gtm-position": "DeliCLP Bottom 03",
+            "data-gtm-name": "Deli",
+            "data-gtm-creative": "Deli"
+          }
+        }
+      ]
+    },
+    "seo": {
+      "seo": "\n    <h2>Fresh Deli Meats &amp; Cheeses - Perfect for Every Occasion</h2>\n\n    <p>\n      Deli meats and cheeses are the perfect addition to any meal, offering a\n      delicious burst of flavor in every bite. Whether you're looking to make a\n      classic deli sandwich or build a beautiful <a href=\"https://www.bjs.com/category/grocery/deli-grocery/specialty-cheese-and-charcuterie/3000000000000248013\">charcuterie board</a>, BJ's\n      Wholesale Club has you covered with a wide selection of fresh options in\n      one of our <a href=\"https://www.bjs.com/category/grocery/deli-grocery/service-deli-meat-and-cheese/3000000000000248011\">full-service delis</a>.\n    </p>\n\n    <ul>\n      <li>\n        <h3>\n          The Benefits of Shopping at BJ's Wholesale Club for Deli Meats and\n          Cheese\n        </h3>\n\n        <p>\n          At BJ's Wholesale Club, we understand the importance of freshness and\n          quality when it comes to deli meats and cheeses. That's why we offer a\n          wide selection of options that are not only delicious, but also\n          affordable, especially from our own brand, <a href=\"https://www.bjs.com/category/grocery/deli-grocery/from-our-deli/3000000000000248009\">Wellsley Farms</a>. And with our convenient shopping experience, it's easier\n          than ever to stock up on all your favorite deli options.\n        </p>\n      </li>\n      <li>\n        <h3>Deli Meats and Cheese for Every Occasion</h3>\n\n        <p>\n          Whether you're looking to make a classic deli sandwich for lunch,\n          build a beautiful charcuterie board for a snack, or cater a special\n          event, BJ's Wholesale Club has everything you need.\n        </p>\n      </li>\n      <li>\n        <h3>Sandwiches and Lunches</h3>\n\n        <p>\n          When it comes to deli sandwiches, the options are endless. From\n          classic options like ham and turkey, to more unique choices like roast\n          beef and salami, there's something for everyone. And if you're looking\n          to get creative with your at-home lunch, try adding some delicious\n          deli cheese like cheddar or Swiss.\n        </p>\n      </li>\n      <li>\n        <h3>Charcuterie Boards and Snacks</h3>\n\n        <p>\n          Charcuterie boards are the perfect way to enjoy a variety of delicious\n          deli meats and cheeses. Pair them with crackers, fruit, nuts, and\n          olives for a satisfying snack that's both delicious and beautiful.\n        </p>\n      </li>\n      <li>\n        <h3>Party Platters and Catering</h3>\n\n        <p>\n          For special events and gatherings, BJ's Wholesale Club offers\n          tailor-made party platters that are sure to impress. And with our\n          convenient catering options, you can order everything you need on\n          BJs.com or in-club for a successful event with ease.\n        </p>\n      </li>\n    </ul>\n    <p>\n      When it comes to <a href=\"https://www.bjs.com/category/grocery/deli-grocery/packaged-lunch-meat-and-cheese/3000000000000248010\"> deli meats and cheeses</a>, BJ's Wholesale Club has\n      everything you need to make your next meal or event a success. With a wide\n      selection of fresh options, affordable prices, and a convenient shopping\n      experience, there's no better place to buy. So why wait? Visit BJ's\n      Wholesale Club today and taste the difference for yourself!\n    </p>\n  "
+    }
+  }
+}

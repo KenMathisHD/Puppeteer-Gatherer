@@ -1,0 +1,206 @@
+{
+  "status": {
+    "top": {
+      "imageData": {
+        "image": {
+          "mobileSrc": "https://bjs.scene7.com/is/image/bjs/Snacks_CLP_Mobile",
+          "desktopSrc": "https://bjs.scene7.com/is/image/bjs/Snacks_CLP_Full",
+          "alt": "Snacks - popcorn, chips and more!"
+        },
+        "clickthrough": "Not Clickable"
+      },
+      "textData": {
+        "clickthrough": {
+          "href": "https://www.bjs.com/category/grocery/snacks/3000000000000248054?ShopAll=Y&template=clp",
+          "data-gtm-id": "SnacksCLP01",
+          "data-gtm-position": "SnacksCLP Top 01",
+          "data-gtm-name": "Shop All Snacks",
+          "data-gtm-creative": "Shop All Snacks"
+        },
+        "titleTextData": {
+          "title": "Everyone deserves a little treat.",
+          "copy": "",
+          "cta": "Shop all snacks"
+        }
+      }
+    },
+    "bubbles": {
+      "title": "Shop By Category",
+      "bubbles": [
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/wellsley-farms/wellsley-farms-snack-shop/3000000000000248049",
+            "data-gtm-id": "PetCategory01",
+            "data-gtm-position": "Pet Category 01",
+            "data-gtm-name": "Wellsley Farms Snack Shop",
+            "data-gtm-creative": "Wellsley Farms Snack Shop"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/OurSnacks_Cat",
+            "alt": "Wellsley Farms Snack Shop"
+          },
+          "label": "Wellsley Farms Snack Shop"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/snacks/chips/3000000000000248047",
+            "data-gtm-id": "PetCategory02",
+            "data-gtm-position": "Pet Category 02",
+            "data-gtm-name": "Chips",
+            "data-gtm-creative": "Chips"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Chips_Snacks_Cat",
+            "alt": "Chips"
+          },
+          "label": "Chips"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/snacks/pretzels-and-popcorn/3000000000000248051",
+            "data-gtm-id": "PetCategory03",
+            "data-gtm-position": "Pet Category 03",
+            "data-gtm-name": "Pretzels & Popcorn",
+            "data-gtm-creative": "Pretzels & Popcorn"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Popcorrn_Snacks_Cat",
+            "alt": "Pretzels & Popcorn"
+          },
+          "label": "Pretzels & Popcorn"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/snacks/cookies/3000000000000117270",
+            "data-gtm-id": "PetCategory04",
+            "data-gtm-position": "Pet Category 04",
+            "data-gtm-name": "Cookies",
+            "data-gtm-creative": "Cookies"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Cookies_Snacks_Cat",
+            "alt": "Cookies"
+          },
+          "label": "Cookies"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/snacks/crackers/3000000000000248048",
+            "data-gtm-id": "PetCategory05",
+            "data-gtm-position": "Pet Category 05",
+            "data-gtm-name": "Crackers",
+            "data-gtm-creative": "Crackers"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Crackers_Snacks_Cat",
+            "alt": "Crackers"
+          },
+          "label": "Crackers"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/snacks/fruit-snacks-nuts-and-seeds/3000000000000248050",
+            "data-gtm-id": "PetCategory06",
+            "data-gtm-position": "Pet Category 06",
+            "data-gtm-name": "Fruit Snacks, Nuts & Seeds",
+            "data-gtm-creative": "Fruit Snacks, Nuts & Seeds"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/FruitNuts_Snacks_Cat",
+            "alt": "Fruit Snacks, Nuts & Seeds"
+          },
+          "label": "Fruit Snacks, Nuts & Seeds"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/snacks/beef-jerky-and-meat-snacks/3000000000000248045",
+            "data-gtm-id": "PetCategory07",
+            "data-gtm-position": "Pet Category 07",
+            "data-gtm-name": "Beef Jerky & Meat Snacks",
+            "data-gtm-creative": "Beef Jerky & Meat Snacks"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/BeefJerky_Snacks_Cat",
+            "alt": "Beef Jerky & Meat Snacks"
+          },
+          "label": "Beef Jerky & Meat Snacks"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/snacks/snack-bars-and-cakes/3000000000000152985",
+            "data-gtm-id": "PetCategory08",
+            "data-gtm-position": "Pet Category 08",
+            "data-gtm-name": "Snack Bars & Cakes",
+            "data-gtm-creative": "Snack Bars & Cakes"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Cakes_Snacks_Cat",
+            "alt": "Snack Bars & Cakes"
+          },
+          "label": "Snack Bars & Cakes"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/snacks/snacks-for-kids/3000000000000248052",
+            "data-gtm-id": "PetCategory09",
+            "data-gtm-position": "Pet Category 09",
+            "data-gtm-name": "Snacks for Kids",
+            "data-gtm-creative": "Snacks for Kids"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Kids_Snacks_Cat",
+            "alt": "Snacks for Kids"
+          },
+          "label": "Snacks for Kids"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/snacks/multi-packs-and-variety-packs/3000000000000252998",
+            "data-gtm-id": "PetCategory010",
+            "data-gtm-position": "Pet Category 010",
+            "data-gtm-name": "Multi Packs & Variety Packs",
+            "data-gtm-creative": "Multi Packs & Variety Packs"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Multipacks_Snacks_Cat",
+            "alt": "Multi Packs & Variety Packs"
+          },
+          "label": "Multi Packs & Variety Packs"
+        }
+      ]
+    },
+    "bottom": {
+      "cards": [
+        {
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Cravings_CLP_2x",
+            "alt": "There's muffin like it. Spoil everone with their favorite treat. Click here to shop cravings"
+          },
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/grocery-shops/cravings/3000000000000248041",
+            "data-gtm-id": "Snacks21",
+            "data-gtm-position": "SnacksCLP Bottom 01",
+            "data-gtm-name": "Cravings - muffins",
+            "data-gtm-creative": "Cravings - muffins"
+          }
+        },
+        {
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Healthy_CLP_2x",
+            "alt": "Feel-good foods. Discover low-fat, low-sugar & high-protein snacks. Click here to shop healthy snacks"
+          },
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/snacks/fruit-snacks-nuts-and-seeds/3000000000000248050",
+            "data-gtm-id": "Snacks22",
+            "data-gtm-position": "SnacksCLP Bottom 02",
+            "data-gtm-name": "Healthy snacks - feel good foods",
+            "data-gtm-creative": "Healthy snacks - feel good foods"
+          }
+        }
+      ]
+    },
+    "seo": {
+      "seo": "\n    <h2>Snacks and Chips - A Tasty and Convenient Snack Solution</h2>\n\n    <p>\n      Snacks are an important part of our daily lives and having a variety of\n      snacks on hand can make our lives more convenient. At BJ's Wholesale Club,\n      we understand the importance of having snacks available, which is why we\n      offer a wide range of snack options, including <a href=\"https://www.bjs.com/category/grocery/snacks/chips/3000000000000248047\">chips</a>, <a href=\"https://www.bjs.com/category/grocery/snacks/cookies/3000000000000117270\">cookies</a>, <a href=\"https://www.bjs.com/category/grocery/snacks/crackers/3000000000000248048\">crackers</a>,\n      <a href=\"https://www.bjs.com/category/grocery/snacks/fruit-snacks-nuts-and-seeds/3000000000000248050\">nuts</a>, <a href=\"https://www.bjs.com/category/grocery/snacks/snack-bars-and-cakes/3000000000000152985\">snack cakes</a>, and healthy snacks.\n    </p>\n\n    <ul>\n      <li>\n        <h3>Salty Snacks and Chips</h3>\n        <p>\n          Chips are a classic snack that never go out of style. We offer a\n          variety of chip flavors, including classic and unique options, so you\n          can find the perfect snack to suit your taste buds. Whether you're\n          looking for a salty snack to satisfy your cravings or a chip to enjoy\n          while watching a movie, we have you covered.\n        </p>\n      </li>\n      <li>\n        <h3>Cookies</h3>\n        <p>\n          Cookies are a sweet treat that everyone loves. From chocolate chip to\n          peanut butter, our cookies are sure to delight your taste buds.\n          Whether you're looking for a sweet snack to enjoy on your own or to\n          share with friends and family, our cookies are the perfect choice.\n        </p>\n      </li>\n      <li>\n        <h3>Crackers</h3>\n        <p>\n          Crackers are a versatile snack that can be enjoyed on their own or\n          paired with cheese or other toppings. Whether you're looking for a\n          snack to enjoy during the day or to serve at a party, our cracker\n          snack packs are perfect for any occasion.\n        </p>\n      </li>\n      <li>\n        <h3>Nuts</h3>\n        <p>\n          Nuts are a healthy and satisfying snack that can be enjoyed any time\n          of day. From roasted almonds to mixed nuts, our selection of nuts is\n          sure to please. Nuts are a great source of protein and healthy fats,\n          making them a great option for those looking for a healthy snack.\n        </p>\n      </li>\n      <li>\n        <h3>Snack Cakes</h3>\n        <p>\n          Snack cakes are a sweet snack that can be enjoyed on any occasion.\n          From cupcakes to brownies, our snack cakes are sure to delight your\n          taste buds. Whether you're looking for a sweet treat to enjoy on your\n          own or to share with friends and family, our snack cakes are the\n          perfect choice.\n        </p>\n      </li>\n      <li>\n        <h3>Healthy Snacks</h3>\n        <p>\n          Snacks don't have to be unhealthy. At BJ's Wholesale Club, we offer a\n          selection of healthy snacks, including fresh fruit snacks and veggie\n          snacks. These snacks are a great option for those looking to maintain\n          a healthy diet while still enjoying a tasty snack.\n        </p>\n      </li>\n    </ul>\n    <p>\n      At BJ's Wholesale Club, we offer a wide range of snack options, including\n      chips, cookies, crackers, nuts, snack cakes, <a href=\"https://www.bjs.com/category/grocery/snacks/beef-jerky-and-meat-snacks/3000000000000248045\">jerky</a>, and healthy snacks. Whether\n      you're looking for a sweet treat or a healthy snack, we have you covered.\n      So why not try something new today and discover your new favorite snack!\n    </p>\n  "
+    }
+  }
+}

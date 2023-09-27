@@ -1,0 +1,267 @@
+{
+  "status": {
+    "top": {
+      "imageData": {
+        "image": {
+          "mobileSrc": "https://bjs.scene7.com/is/image/bjs/Beverages_ShopAll_CLP_Mobile",
+          "desktopSrc": "\n                  https://bjs.scene7.com/is/image/bjs/Beverages_ShopAll_CLP_Full\n                ",
+          "alt": "Beverages - refreshing grapefruit drinks and more! Click to shop all"
+        },
+        "clickthrough": {
+          "href": "https://www.bjs.com/category/grocery/beverages/3000000000000018003?ShopAll=Y&template=clp",
+          "data-gtm-id": "BeveragesCLP01",
+          "data-gtm-position": "BeveragesCLP Top 01",
+          "data-gtm-name": "Shop all beverages",
+          "data-gtm-creative": "Shop all beverages"
+        }
+      },
+      "textData": {
+        "clickthrough": {
+          "href": "https://www.bjs.com/category/promotions/buy-more-save-more/save-on-juice/3000000000000255989",
+          "data-gtm-id": "BeveragesCLP01",
+          "data-gtm-position": "BeveragesCLP Top 01",
+          "data-gtm-name": "BMSM Juice",
+          "data-gtm-creative": "BMSM Juice"
+        },
+        "titleTextData": {
+          "title": "Buy more, save more.",
+          "copy": "Spend $30 on juice. Get $10 in  rewards.*",
+          "cta": "Shop all beverages"
+        }
+      }
+    },
+    "bubbles": {
+      "title": "Shop By Category",
+      "bubbles": [
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/beverages/water/3000000000000185489",
+            "data-gtm-id": "PetCategory01",
+            "data-gtm-position": "Pet Category 01",
+            "data-gtm-name": "Water",
+            "data-gtm-creative": "Water"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Water_Bev_Cat",
+            "alt": "Water"
+          },
+          "label": "Water"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/beverages/sparkling-and-seltzer-water/3000000000000247993",
+            "data-gtm-id": "PetCategory02",
+            "data-gtm-position": "Pet Category 02",
+            "data-gtm-name": "Sparkling & Seltzer Water",
+            "data-gtm-creative": "Sparkling & Seltzer Water"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Seltzer_Bev_Cat",
+            "alt": "Sparkling & Seltzer Water"
+          },
+          "label": "Sparkling & Seltzer Water"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/beverages/drink-mixers/3000000000000117332",
+            "data-gtm-id": "PetCategory03",
+            "data-gtm-position": "Pet Category 03",
+            "data-gtm-name": "Drink Mixers",
+            "data-gtm-creative": "Drink Mixers"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Mixers_Bev_Cat",
+            "alt": "Drink Mixers"
+          },
+          "label": "Drink Mixers"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/beverages/soda-and-pop/3000000000000117328",
+            "data-gtm-id": "PetCategory04",
+            "data-gtm-position": "Pet Category 04",
+            "data-gtm-name": "Soda & Pop",
+            "data-gtm-creative": "Soda & Pop"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Soda_Bev_Cat",
+            "alt": "Soda & Pop"
+          },
+          "label": "Soda & Pop"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/beverages/juice/3000000000000117333",
+            "data-gtm-id": "PetCategory05",
+            "data-gtm-position": "Pet Category 05",
+            "data-gtm-name": "Juice",
+            "data-gtm-creative": "Juice"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Juice_Bev_Cat",
+            "alt": "Juice"
+          },
+          "label": "Juice"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/beverages/sports-and-energy-drinks/3000000000000117329",
+            "data-gtm-id": "PetCategory06",
+            "data-gtm-position": "Pet Category 06",
+            "data-gtm-name": "Sports & Energy Drinks",
+            "data-gtm-creative": "Sports & Energy Drinks"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Sports_Bev_Cat",
+            "alt": "Sports & Energy Drinks"
+          },
+          "label": "Sports & Energy Drinks"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/beverages/drink-mix-and-water-enhancers/3000000000000247992",
+            "data-gtm-id": "PetCategory07",
+            "data-gtm-position": "Pet Category 07",
+            "data-gtm-name": "Drink Mix & Water Enhancers",
+            "data-gtm-creative": "Drink Mix & Water Enhancers"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Powdered_Bev_Cat",
+            "alt": "Drink Mix & Water Enhancers"
+          },
+          "label": "Drink Mix & Water Enhancers"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/dairy/milk-and-cream/3000000000000117230",
+            "data-gtm-id": "PetCategory08",
+            "data-gtm-position": "Pet Category 08",
+            "data-gtm-name": "Milk & Cream",
+            "data-gtm-creative": "Milk & Cream"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/MilkCream_Dairy_Cat",
+            "alt": "Milk & Cream"
+          },
+          "label": "Milk & Cream"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/wellsley-farms/wellsley-farms-coffee-shop/3000000000000247989",
+            "data-gtm-id": "PetCategory09",
+            "data-gtm-position": "Pet Category 09",
+            "data-gtm-name": "Wellsley Farms Coffee Shop",
+            "data-gtm-creative": "Wellsley Farms Coffee Shop"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/WF_Pantry_Cat",
+            "alt": "Wellsley Farms Coffee Shop"
+          },
+          "label": "Wellsley Farms Coffee Shop"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/beverages/coffee-and-creamers/3000000000000247508",
+            "data-gtm-id": "PetCategory010",
+            "data-gtm-position": "Pet Category 010",
+            "data-gtm-name": "Coffee & Creamers",
+            "data-gtm-creative": "Coffee & Creamers"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Coffee_Bev_Cat",
+            "alt": "Coffee & Creamers"
+          },
+          "label": "Coffee & Creamers"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/beverages/shelf-stable-beverages/3000000000000173988",
+            "data-gtm-id": "PetCategory011",
+            "data-gtm-position": "Pet Category 011",
+            "data-gtm-name": "Shelf Stable Beverages",
+            "data-gtm-creative": "Shelf Stable Beverages"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Shelf_Bev_Cat",
+            "alt": "Shelf Stable Beverages"
+          },
+          "label": "Shelf Stable Beverages"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/beverages/tea-and-hot-chocolate/3000000000000247994",
+            "data-gtm-id": "PetCategory012",
+            "data-gtm-position": "Pet Category 012",
+            "data-gtm-name": "Tea & Hot Chocolate",
+            "data-gtm-creative": "Tea & Hot Chocolate"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Tea_Bev_Cat",
+            "alt": "Tea & Hot Chocolate"
+          },
+          "label": "Tea & Hot Chocolate"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/beverages/kid-s-beverages/3000000000000247990",
+            "data-gtm-id": "PetCategory013",
+            "data-gtm-position": "Pet Category 013",
+            "data-gtm-name": "Kid's Beverages",
+            "data-gtm-creative": "Kid's Beverages"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Kids_Bev_Cat",
+            "alt": "Kid's Beverages"
+          },
+          "label": "Kid's Beverages"
+        }
+      ]
+    },
+    "bottom": {
+      "cards": [
+        {
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/CoffeeCreamer_CLP_3x",
+            "alt": "Make the perfect brew. Your best cup of coffee is made in your own home. Click here to shop coffee & creamer"
+          },
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/dairy/milk-and-cream/3000000000000117230",
+            "data-gtm-id": "Beverages21",
+            "data-gtm-position": "BeveragesCLP Bottom 01",
+            "data-gtm-name": "Coffee Creamer",
+            "data-gtm-creative": "Coffee Creamer"
+          }
+        },
+        {
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/KidsBeverages_CLP_3x",
+            "alt": "Keep them hydrated. Explore healthy drink options for growing bodies. Click here to shop kids beverages"
+          },
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/beverages/kids-beverages/3000000000000247990",
+            "data-gtm-id": "Beverages22",
+            "data-gtm-position": "BeveragesCLP Bottom 02",
+            "data-gtm-name": "Kids Beverages",
+            "data-gtm-creative": "Kids Beverages"
+          }
+        },
+        {
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Brewers_CLP_3x",
+            "alt": "Discover stylich appliances from top brands."
+          },
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/appliances/small-kitchen-appliances/coffee-and-tea-brewers/3000000000000117062",
+            "data-gtm-id": "Beverages23",
+            "data-gtm-position": "BeveragesCLP Bottom 03",
+            "data-gtm-name": "Brewers",
+            "data-gtm-creative": "Brewers"
+          }
+        }
+      ]
+    },
+    "seo": {
+      "seo": "\n    <h2>Staying Hydrated with BJ's Wholesale Club</h2>\n\n    <p>\n      Staying hydrated is essential for overall health and well-being. At BJ's\n      Wholesale Club, we understand the importance of having a variety of\n      beverages and drinks on hand to quench your thirst and refresh your body.\n      From <a href=\"https://www.bjs.com/category/grocery/beverages/water/3000000000000185489\"> bottled water</a> to energy drinks, we have a wide selection of options\n      to choose from.\n    </p>\n\n    <ul>\n      <li>\n        <h3>Iced Tea</h3>\n        <p>\n          Discover the flavors of <a href=\"https://www.bjs.com/category/grocery/beverages/tea-and-hot-chocolate/3000000000000247994\">iced tea</a> and the health benefits of drinking\n          it. Our iced tea options come in a variety of flavors, so you can find\n          the perfect thirst quencher.\n        </p>\n      </li>\n      <li>\n        <h3>Energy Drinks</h3>\n        <p>\n          Need a quick energy boost? Our selection of <a href=\"https://www.bjs.com/category/grocery/beverages/energy-drinks/3000000000000247988\"> energy drinks</a> includes\n          popular brands that are sure to give you the energy you need to power\n          through your day.\n        </p>\n      </li>\n      <li>\n        <h3>Flavored Water</h3>\n        <p>\n          Looking for a refreshing, natural taste? Our <a href=\"https://www.bjs.com/category/grocery/beverages/sparkling-and-seltzer-water/3000000000000247993\"> flavored water</a> options\n          are the perfect thirst quencher. With natural flavors, you can stay\n          hydrated while enjoying a delicious drink.\n        </p>\n      </li>\n      <li>\n        <h3>Sports Drinks</h3>\n        <p>\n          Physical activity can lead to a loss of electrolytes, which is why\n          <a href=\"https://www.bjs.com/category/grocery/beverages/sports-and-nutritional-drinks/3000000000000117329\"> sports drinks</a> are essential for athletes and active individuals. Our\n          selection of sports drinks contains electrolyte-infused options to\n          help you perform at your best.\n        </p>\n      </li>\n    </ul>\n\n    <p>\n      At BJ's Wholesale Club, we have a wide selection of beverage and drink\n      options to choose from. Whether you're looking for <a href=\"https://www.bjs.com/category/grocery/beverages/juice/3000000000000117333\"> juice</a>, bottled\n      water, <a href=\"https://www.bjs.com/category/grocery/beverages/soda-and-pop/3000000000000117328\"> soda</a>, <a href=\"https://www.bjs.com/category/grocery/beverages/coffee-and-creamers/3000000000000247508\"> coffee</a>, or <a href=\"https://www.bjs.com/category/grocery/beverages/drink-mix-and-water-enhancers/3000000000000247992\"> drink mix and water enhancers</a>, we have what you\n      need to stay hydrated and refreshed. Try something new today and find the\n      perfect drink for any occasion.\n    </p>\n  "
+    }
+  }
+}

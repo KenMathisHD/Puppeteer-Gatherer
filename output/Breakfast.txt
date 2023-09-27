@@ -1,0 +1,135 @@
+{
+  "status": {
+    "top": {
+      "imageData": {
+        "image": {
+          "mobileSrc": "https://bjs.scene7.com/is/image/bjs/Breakfast_CLP_Mobile",
+          "desktopSrc": "https://bjs.scene7.com/is/image/bjs/Breakfast_CLP_Full",
+          "alt": "Breakfast - from waffles to pancakes to coffee"
+        },
+        "clickthrough": "Not Clickable"
+      },
+      "textData": {
+        "clickthrough": {
+          "href": "https://www.bjs.com/category/grocery/breakfast/3000000000000247998?ShopAll=Y&template=clp",
+          "data-gtm-id": "BreakfastCLP01",
+          "data-gtm-position": "BreakfastCLP Top 01",
+          "data-gtm-name": "Shop All Breakfast",
+          "data-gtm-creative": "Shop All Breakfast"
+        },
+        "titleTextData": {
+          "title": "Start your day with wholesome ingredients.",
+          "copy": "",
+          "cta": "Shop all breakfast"
+        }
+      }
+    },
+    "bubbles": {
+      "title": "Shop By Category",
+      "bubbles": [
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/breakfast/cereal-oatmeal-and-breakfast-bars/3000000000000247996",
+            "data-gtm-id": "PetCategory01",
+            "data-gtm-position": "Pet Category 01",
+            "data-gtm-name": "Cereal, Oatmeal & Breakfast Bars",
+            "data-gtm-creative": "Cereal, Oatmeal & Breakfast Bars"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Cereal_Breakfast_Cat",
+            "alt": "Cereal, Oatmeal & Breakfast Bars"
+          },
+          "label": "Cereal, Oatmeal & Breakfast Bars"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/breakfast/breakfast-mixes-syrup-and-honey/3000000000000247995",
+            "data-gtm-id": "PetCategory02",
+            "data-gtm-position": "Pet Category 02",
+            "data-gtm-name": "Breakfast Mixes, Syrup & Honey",
+            "data-gtm-creative": "Breakfast Mixes, Syrup & Honey"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/SyrupHoney_Cat",
+            "alt": "Breakfast Mixes, Syrups & Honey"
+          },
+          "label": "Breakfast Mixes, Syrup & Honey"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/breakfast/peanut-butter-and-jelly/3000000000000247999",
+            "data-gtm-id": "PetCategory03",
+            "data-gtm-position": "Pet Category 03",
+            "data-gtm-name": "Peanut Butter & Jelly",
+            "data-gtm-creative": "Peanut Butter & Jelly"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/PBJ_Pantry_Cat",
+            "alt": "Peanut Butter & Jelly"
+          },
+          "label": "Peanut Butter & Jelly"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/breakfast/frozen-breakfast-options/3000000000000117311",
+            "data-gtm-id": "PetCategory04",
+            "data-gtm-position": "Pet Category 04",
+            "data-gtm-name": "Frozen Breakfast Options",
+            "data-gtm-creative": "Frozen Breakfast Options"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Breakfast_Frozen_Cat",
+            "alt": "Frozen Breakfast Options"
+          },
+          "label": "Frozen Breakfast Options"
+        }
+      ]
+    },
+    "bottom": {
+      "cards": [
+        {
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/FrozenBreakfast_CLP_3x",
+            "alt": "Breakfast on-the-go. Stock up to move through the morning with ease. Click here to shop frozen breakfast"
+          },
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/breakfast/frozen-breakfast-options/3000000000000117311",
+            "data-gtm-id": "Breakfast21",
+            "data-gtm-position": "BreakfastCLP Bottom 01",
+            "data-gtm-name": "Frozen Breakfast",
+            "data-gtm-creative": "Frozen Breakfast"
+          }
+        },
+        {
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/FastBreakfast_CLP_3x",
+            "alt": "Good morning fuel. Hardy snacks that will get you through the day. Click here to shop fast breakfast"
+          },
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/snacks/snack-bars-and-cakes/3000000000000152985",
+            "data-gtm-id": "Breakfast22",
+            "data-gtm-position": "BreakfastCLP Bottom 02",
+            "data-gtm-name": "Fast Breakfast",
+            "data-gtm-creative": "Fast Breakfast"
+          }
+        },
+        {
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Milk_CLP_3x",
+            "alt": "Udderly delicious. Get the farm fresh flavor you want. Click here to shop milk and cream"
+          },
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/dairy-products/milk-and-cream/3000000000000117230",
+            "data-gtm-id": "Breakfast23",
+            "data-gtm-position": "BreakfastCLP Bottom 03",
+            "data-gtm-name": "Milk and Cream",
+            "data-gtm-creative": "Milk and Cream"
+          }
+        }
+      ]
+    },
+    "seo": {
+      "seo": "\n    <h2>The Importance of a Good Breakfast</h2>\n    <p>\n      Breakfast is often referred to as the most important meal of the day,\n      providing essential nutrients and energy to get you going. Skipping\n      breakfast can lead to a decrease in energy levels, concentration, and even\n      weight gain. By having a healthy breakfast, you can set yourself up for a\n      productive and successful day.\n    </p>\n\n    <ul>\n      <li>\n        <h3>Quick and Convenient Breakfast Foods</h3>\n        <p>\n          BJ's Wholesale Club offers a variety of morning meals, including\n          <a href=\"https://www.bjs.com/category/grocery/breakfast/cereal-oatmeal-and-breakfast-bars/3000000000000247996\">cereal</a>, ready-to-eat options, quick and easy meal solutions, and healthy\n          options. Whether you're in a rush or have a little more time to enjoy a leisurely breakfast and <a href=\"https://www.bjs.com/category/grocery/beverages/coffee-and-creamers/3000000000000247508\">coffee</a>, BJ's has\n          you covered.\n        </p>\n      </li>\n      <li>\n        <h3>Saving Time with Convenient Breakfast Foods</h3>\n        <p>\n          Convenient breakfast foods save you time in the morning by eliminating\n          the need to prepare a meal from scratch. Whether you need something to\n          grab and go, or a quick and easy meal solution, BJ's Wholesale Club\n          has a variety of options to suit your needs.\n        </p>\n      </li>\n      <li>\n        <h3>Starting the Day with a Healthy Meal</h3>\n        <p>\n          Convenient breakfast foods don't have to be unhealthy. BJ's Wholesale\n          Club offers a range of healthy options, including <a href=\"https://www.bjs.com/category/grocery/produce/fresh-fruit/3000000000000117251\">fresh fruit</a>, <a href=\"https://www.bjs.com/category/grocery/produce/fresh-vegetables/3000000000000117250\">vegetables</a>,\n          and <a href=\"https://www.bjs.com/category/grocery/produce/refrigerated-and-fresh-beverages/3000000000000248004\">smoothies</a>, to help you start your day on the right foot.\n        </p>\n      </li>\n      <li>\n        <h3>Quick and Easy Meal Solutions</h3>\n        <p>\n          BJ's Wholesale Club offers quick and easy meal solutions, such as\n          oatmeal, <a href=\"https://www.bjs.com/category/grocery/dairy/yogurt/3000000000000117232\">yogurt</a>, and granola bars, making it easy to have a nutritious\n          breakfast even on the busiest of mornings.\n        </p>\n      </li>\n      <li>\n        <h3>Ready-to-Eat Breakfast Options</h3>\n        <p>\n          For those in a rush, BJ's Wholesale Club has <a href=\"https://www.bjs.com/category/grocery/breakfast/frozen-breakfast-options/3000000000000117311\">ready-to-eat options</a>,\n          such as breakfast sandwiches, that can be taken on the go. These\n          options are perfect for busy mornings when you don't have time to sit\n          down and eat.\n        </p>\n      </li>\n      <li>\n        <h3>Considering Your Dietary Requirements and Preferences</h3>\n        <p>\n          When choosing your breakfast foods, it's also important to consider\n          your dietary requirements and preferences. BJ's Wholesale Club offers\n          a variety of options to suit different tastes and dietary\n          requirements, making it easy to find the perfect breakfast for you.\n        </p>\n      </li>\n      <li>\n        <h3>Starting your day with a delicious and convenient breakfast</h3>\n        <p>\n          Starting your day with a delicious and convenient breakfast is easy\n          with BJ's Wholesale Club. With a range of options to suit different\n          schedules, tastes, and dietary requirements, you're sure to find the\n          perfect breakfast to start your day right. So why wait? Visit BJ's\n          Wholesale Club today and start your day with a delicious and\n          convenient breakfast.\n        </p>\n      </li>\n    </ul>\n  "
+    }
+  }
+}

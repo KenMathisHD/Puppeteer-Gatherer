@@ -1,0 +1,108 @@
+{
+  "status": {
+    "top": {
+      "imageData": {
+        "image": {
+          "mobileSrc": "https://bjs.scene7.com/is/image/bjs/Seafood_CLP_Mobile",
+          "desktopSrc": "https://bjs.scene7.com/is/image/bjs/Seafood_CLP_Full",
+          "alt": "Seafood - salmon, shrimp and more!"
+        },
+        "clickthrough": "Not Clickable"
+      },
+      "textData": {
+        "clickthrough": {
+          "href": "https://www.bjs.com/category/grocery/seafood/3000000000000248490?ShopAll=Y&template=clp",
+          "data-gtm-id": "SeafoodCLP01",
+          "data-gtm-position": "SeafoodCLP Top 01",
+          "data-gtm-name": "Shop All Seafood",
+          "data-gtm-creative": "Shop All Seafood"
+        },
+        "titleTextData": {
+          "title": "So fresh you can hear the ocean.",
+          "copy": "",
+          "cta": "Shop all seafood"
+        }
+      }
+    },
+    "bubbles": {
+      "title": "Shop By Category",
+      "bubbles": [
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/seafood/wellsley-farms-seafood/3000000000000248035",
+            "data-gtm-id": "PetCategory01",
+            "data-gtm-position": "Pet Category 01",
+            "data-gtm-name": "Wellsley Farms Seafood",
+            "data-gtm-creative": "Wellsley Farms Seafood"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/WF_Pantry_Cat",
+            "alt": "Wellsley Farms Seafood"
+          },
+          "label": "Wellsley Farms Seafood"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/seafood/fresh-seafood/3000000000000252991",
+            "data-gtm-id": "PetCategory02",
+            "data-gtm-position": "Pet Category 02",
+            "data-gtm-name": "Fresh Seafood",
+            "data-gtm-creative": "Fresh Seafood"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Fresh_Seafood_Cat",
+            "alt": "Fresh Seafood"
+          },
+          "label": "Fresh Seafood"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/seafood/frozen-seafood/3000000000000117324",
+            "data-gtm-id": "PetCategory03",
+            "data-gtm-position": "Pet Category 03",
+            "data-gtm-name": "Frozen Seafood",
+            "data-gtm-creative": "Frozen Seafood"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Frozen_Seafood_Cat",
+            "alt": "Frozen Seafood"
+          },
+          "label": "Frozen Seafood"
+        }
+      ]
+    },
+    "bottom": {
+      "cards": [
+        {
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/WF_Seafood_CLP_2x",
+            "alt": "Shrimply the best. Discover quality and taste you can only find at BJ's. Click here to shop Wellsley Farms seafood"
+          },
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/seafood/from-our-fish-counter/3000000000000248035",
+            "data-gtm-id": "Seafood21",
+            "data-gtm-position": "SeafoodCLP Bottom 01",
+            "data-gtm-name": "Wellsley Farms Seafood",
+            "data-gtm-creative": "Wellsley Farms Seafood"
+          }
+        },
+        {
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Veggies_CLP_2x",
+            "alt": "Taste of freshness. Make fruits and vegetables part of every meal. Click here to shop fresh produce"
+          },
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/produce/fresh-vegetables/3000000000000117250",
+            "data-gtm-id": "Seafood22",
+            "data-gtm-position": "SeafoodCLP Bottom 02",
+            "data-gtm-name": "Fresh Produce",
+            "data-gtm-creative": "Fresh Produce"
+          }
+        }
+      ]
+    },
+    "seo": {
+      "seo": "\n    <h2>Find Your Perfect Seafood: Fresh or Frozen</h2>\n\n    <p>\n      BJ's Wholesale Club is proud to offer a wide selection of both fresh and\n      frozen seafood options to meet the needs of our customers. Whether you're\n      looking for a quick and convenient meal or a high-quality, flavorful\n      option, we've got you covered. Our seafood is sourced sustainably and can\n      be delivered right to your door, so you can enjoy the best of both worlds.\n    </p>\n\n    <ul>\n      <li>\n        <h3>Fresh Seafood at BJ's Wholesale Club</h3>\n\n        <p>\n          At BJ's Wholesale Club, we take great care to ensure the quality \n          of our <a href=\"https://www.bjs.com/category/grocery/seafood/fresh-seafood/3000000000000252991\">fresh seafood</a> options. Our fish fillets, shrimp, and\n          salmon are sourced from the finest suppliers and are of the highest\n          quality. The flavor and nutritional value of fresh seafood is\n          unmatched, making it a great option for a healthy and delicious meal.\n        </p>\n      </li>\n      <li>\n        <h3>Benefits of Choosing Fresh Seafood</h3>\n\n        <p>\n          When it comes to fresh seafood, the benefits are clear. Fresh seafood\n          is incredibly flavorful and provides a wealth of nutritional value.\n          Additionally, the freshness of our seafood options can't be beaten.\n        </p>\n      </li>\n      <li>\n        <h3>Frozen Seafood at BJ's Wholesale Club</h3>\n\n        <p>\n          Our <a href=\"https://www.bjs.com/category/grocery/seafood/frozen-seafood/3000000000000117324\"> frozen seafood</a> options are the perfect solution for those who want\n          a convenient and delicious meal without sacrificing quality. Our ahi\n          tuna steaks, crab cakes, shrimp, fish fillets, and more are made with\n          the finest ingredients and are a great option for busy weeknights or\n          quick lunches.\n        </p>\n      </li>\n      <li>\n        <h3>Benefits of Choosing Frozen Seafood</h3>\n\n        <p>\n          Frozen seafood offers a number of benefits, including convenience, a\n          long shelf life, and affordability. With our frozen seafood options,\n          you can enjoy a delicious and healthy meal in no time, without\n          sacrificing quality or flavor.\n        </p>\n      </li>\n    </ul>\n    <p>\n      At BJ's Wholesale Club, we are committed to providing our customers with\n      the best of both worlds. Whether you're looking for fresh seafood options\n      or frozen seafood options, we've got you covered. Our selection of seafood\n      options is both high-quality and sustainably sourced and can be delivered\n      right to your door. So why wait? Shop for seafood at <a href=\"https://www.bjs.com/\"> BJs.com</a> today!\n    </p>\n  "
+    }
+  }
+}

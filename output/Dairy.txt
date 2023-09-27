@@ -1,0 +1,178 @@
+{
+  "status": {
+    "top": {
+      "imageData": {
+        "image": {
+          "mobileSrc": "https://bjs.scene7.com/is/image/bjs/Dairy_CLP_Mobile",
+          "desktopSrc": "https://bjs.scene7.com/is/image/bjs/Dairy_CLP_Full",
+          "alt": "Dairy - milks, eggs and more!"
+        },
+        "clickthrough": "Not Clickable"
+      },
+      "textData": {
+        "clickthrough": {
+          "href": "https://www.bjs.com/category/grocery/dairy/3000000000000248002?ShopAll=Y&template=clp",
+          "data-gtm-id": "DairyCLP01",
+          "data-gtm-position": "DairyCLP Top 01",
+          "data-gtm-name": "Shop All Dairy",
+          "data-gtm-creative": "Shop All Dairy"
+        },
+        "titleTextData": {
+          "title": "Churn out your best dish yet.",
+          "copy": "",
+          "cta": "Shop all dairy"
+        }
+      }
+    },
+    "bubbles": {
+      "title": "Shop By Category",
+      "bubbles": [
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/dairy/wellsley-farms-dairy/3000000000000248005",
+            "data-gtm-id": "PetCategory01",
+            "data-gtm-position": "Pet Category 01",
+            "data-gtm-name": "Wellsley Farms Dairy",
+            "data-gtm-creative": "Wellsley Farms Dairy"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/WF_Dairy_Cat",
+            "alt": "Wellsley Farms Dairy"
+          },
+          "label": "Wellsley Farms Dairy"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/dairy/butter-and-margarine/3000000000000117234",
+            "data-gtm-id": "PetCategory02",
+            "data-gtm-position": "Pet Category 02",
+            "data-gtm-name": "Butter & Margarine",
+            "data-gtm-creative": "Butter & Margarine"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Butter_Dairy_Cat",
+            "alt": "Butter & Margarine"
+          },
+          "label": "Butter & Margarine"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/dairy/cheese/3000000000000117231",
+            "data-gtm-id": "PetCategory03",
+            "data-gtm-position": "Pet Category 03",
+            "data-gtm-name": "Cheese",
+            "data-gtm-creative": "Cheese"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Cheese_Dairy_Cat",
+            "alt": "Cheese"
+          },
+          "label": "Cheese"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/dairy/eggs-and-egg-substitutes/3000000000000117233",
+            "data-gtm-id": "PetCategory04",
+            "data-gtm-position": "Pet Category 04",
+            "data-gtm-name": "Eggs & Egg Substitutes",
+            "data-gtm-creative": "Eggs & Egg Substitutes"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Eggs_Dairy_Cat",
+            "alt": "Eggs & Egg Substitutes"
+          },
+          "label": "Eggs & Egg Substitutes"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/dairy/milk-and-cream/3000000000000117230",
+            "data-gtm-id": "PetCategory05",
+            "data-gtm-position": "Pet Category 05",
+            "data-gtm-name": "Milk & Cream",
+            "data-gtm-creative": "Milk & Cream"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/MilkCream_Dairy_Cat",
+            "alt": "Milk & Cream"
+          },
+          "label": "Milk & Cream"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/dairy/yogurt/3000000000000117232",
+            "data-gtm-id": "PetCategory06",
+            "data-gtm-position": "Pet Category 06",
+            "data-gtm-name": "Yogurt",
+            "data-gtm-creative": "Yogurt"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Yogurt_Dairy_Cat",
+            "alt": "Yogurt"
+          },
+          "label": "Yogurt"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/dairy/refrigerated-and-fresh-beverages/3000000000000248004",
+            "data-gtm-id": "PetCategory07",
+            "data-gtm-position": "Pet Category 07",
+            "data-gtm-name": "Refrigerated & Fresh Beverages",
+            "data-gtm-creative": "Refrigerated & Fresh Beverages"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Beverages_Produce_Cat",
+            "alt": "Refrigerated & Fresh Beverages"
+          },
+          "label": "Refrigerated & Fresh Beverages"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/bakery/desserts-and-refrigerated-dough/3000000000000247494",
+            "data-gtm-id": "PetCategory08",
+            "data-gtm-position": "Pet Category 08",
+            "data-gtm-name": "Desserts & Refrigerated Dough",
+            "data-gtm-creative": "Desserts & Refrigerated Dough"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Dough_Cat",
+            "alt": "Desserts & Refrigerated Dough"
+          },
+          "label": "Desserts & Refrigerated Dough"
+        }
+      ]
+    },
+    "bottom": {
+      "cards": [
+        {
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/WF_Dairy_CLP_2x",
+            "alt": "Fresh from the farm. Quality meals start with quality ingredients. Click here to shop Wellsley Farms dairy"
+          },
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/wellsley-farms/wellsley-farms-dairy/3000000000000248005",
+            "data-gtm-id": "Dairy21",
+            "data-gtm-position": "DairyCLP Bottom 01",
+            "data-gtm-name": "Wellsley Farms dairy",
+            "data-gtm-creative": "Wellsley Farms dairy"
+          }
+        },
+        {
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Cheese_CLP_2x",
+            "alt": "Get Cheesey. Impress your guests or upgrade your recipes. Click here to shop specialty cheeses"
+          },
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/deli/specialty-cheese-and-charcuterie/3000000000000248013",
+            "data-gtm-id": "Dairy22",
+            "data-gtm-position": "DairyCLP Bottom 02",
+            "data-gtm-name": "Specialty Cheeses",
+            "data-gtm-creative": "Specialty Cheeses"
+          }
+        }
+      ]
+    },
+    "seo": {
+      "seo": "\n    <h2>Fresh Dairy &amp; Milk Products for Your Family</h2>\n\n    <p>\n      Dairy products play an important role in a balanced and healthy diet. They\n      provide essential nutrients such as calcium, protein, and vitamins that\n      are crucial for maintaining good health. At BJ's Wholesale Club, we offer\n      a wide selection of fresh dairy products, including <a href=\"https://www.bjs.com/category/grocery/dairy/milk-and-cream/3000000000000117230\">milk</a>, <a href=\"https://www.bjs.com/category/grocery/dairy/cheese/3000000000000117231\"> cheese</a>, and\n      <a href=\"https://www.bjs.com/category/grocery/dairy/butter-and-margarine/3000000000000117234\"> butter</a>, so you can find what you need for your home.\n    </p>\n\n    <ul>\n      <li>\n        <h3>Milk and Dairy Alternatives</h3>\n        <p>\n          Whether you prefer whole milk, skim milk, or dairy alternatives like\n          almond milk or soy milk, we have options to suit every taste\n          preference. By incorporating dairy alternatives into your diet, you\n          can enjoy the health benefits of dairy without consuming animal\n          products.\n        </p>\n      </li>\n\n      <li>\n        <h3>Cheese and Butter Varieties</h3>\n        <p>\n          We also offer a variety of cheeses, including cheddar cheese,\n          mozzarella cheese, and parmesan cheese. Whether you're making a\n          delicious cheese platter or cooking a cheesy dish, you'll find the\n          cheese you need at BJ's Wholesale Club. Our selection of butters,\n          including salted butter, unsalted butter, and spreadable butter,\n          provides options for every cooking and baking need.\n        </p>\n      </li>\n\n      <li>\n        <h3>Fresh Dairy Delivered to Your Door</h3>\n        <p>\n          When you shop for dairy products at BJ's Wholesale Club, you'll enjoy\n          high-quality dairy at affordable prices. We offer convenient shopping\n          options, including in-club and <a href=\"https://www.bjs.com/\"> online shopping</a>, so you can get the\n          dairy products you need without leaving your home.\n        </p>\n      </li>\n    </ul>\n\n    <p>\n      Shop for dairy products at BJ's Wholesale Club today and enjoy fresh dairy\n      delivered to your door. With our wide selection of milk, cheese, <a href=\"https://www.bjs.com/category/grocery/dairy/eggs-and-egg-substitutes/3000000000000117233\"> eggs</a>, <a href=\"https://www.bjs.com/category/grocery/dairy/yogurt/3000000000000117232\">yogurt</a> and\n      butter, you'll find everything you need.\n    </p>\n  "
+    }
+  }
+}

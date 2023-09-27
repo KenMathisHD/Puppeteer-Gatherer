@@ -1,0 +1,278 @@
+{
+  "status": {
+    "top": {
+      "imageData": {
+        "image": {
+          "mobileSrc": "https://bjs.scene7.com/is/image/bjs/Pantry_CLP_Mobile",
+          "desktopSrc": "https://bjs.scene7.com/is/image/bjs/Pantry_CLP_Full",
+          "alt": "Pantry - rice, pasta, crackers and spices for your pantry!"
+        },
+        "clickthrough": "Not Clickable"
+      },
+      "textData": {
+        "clickthrough": {
+          "href": "https://www.bjs.com/category/grocery/pantry/3000000000000248018?ShopAll=y&template=clp",
+          "data-gtm-id": "PantryCLP01",
+          "data-gtm-position": "PantryCLP Top 01",
+          "data-gtm-name": "Shop All Pantry",
+          "data-gtm-creative": "Shop All Pantry"
+        },
+        "titleTextData": {
+          "title": "Stock up to create your dream dish.",
+          "copy": "",
+          "cta": "Shop all pantry staples"
+        }
+      }
+    },
+    "bubbles": {
+      "title": "Shop By Category",
+      "bubbles": [
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/pantry/wellsley-farms-pantry/3000000000000248022",
+            "data-gtm-id": "PetCategory01",
+            "data-gtm-position": "Pet Category 01",
+            "data-gtm-name": "Wellsley Farms Pantry",
+            "data-gtm-creative": "Wellsley Farms Pantry"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/WF_Pantry_Cat",
+            "alt": "Wellsley Farms Pantry"
+          },
+          "label": "Wellsley Farms Pantry"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/pantry/condiments/3000000000000125964",
+            "data-gtm-id": "PetCategory02",
+            "data-gtm-position": "Pet Category 02",
+            "data-gtm-name": "Condiments",
+            "data-gtm-creative": "Condiments"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Condiments_Pantry_Cat",
+            "alt": "Condiments"
+          },
+          "label": "Condiments"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/pantry/marinades-and-sauces/3000000000000125965",
+            "data-gtm-id": "PetCategory03",
+            "data-gtm-position": "Pet Category 03",
+            "data-gtm-name": "Marinades & Sauces",
+            "data-gtm-creative": "Marinades & Sauces"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Marinades_Pantry_Cat",
+            "alt": "Marinades & Sauce"
+          },
+          "label": "Marinades & Sauces"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/pantry/oil-and-vinegar/3000000000000125961",
+            "data-gtm-id": "PetCategory04",
+            "data-gtm-position": "Pet Category 04",
+            "data-gtm-name": "Oil & Vinegar",
+            "data-gtm-creative": "Oil & Vinegar"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/OilVinegar_Pantry_Cat",
+            "alt": "Oil & Vinegar"
+          },
+          "label": "Oil & Vinegar"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/pantry/pickles-peppers-and-olives/3000000000000125967",
+            "data-gtm-id": "PetCategory05",
+            "data-gtm-position": "Pet Category 05",
+            "data-gtm-name": "Pickles, Peppers & Olives",
+            "data-gtm-creative": "Pickles, Peppers & Olives"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Pickles_Pantry_Cat",
+            "alt": "Pickles, Peppers & Olives"
+          },
+          "label": "Pickles, Peppers & Olives"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/pantry/salad-dressing-and-fixings/3000000000000125962",
+            "data-gtm-id": "PetCategory06",
+            "data-gtm-position": "Pet Category 06",
+            "data-gtm-name": "Salad Dressing & Fixings",
+            "data-gtm-creative": "Salad Dressing & Fixings"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Dressing_Pantry_Cat",
+            "alt": "Salad Dressing & Fixings"
+          },
+          "label": "Salad Dressing & Fixings"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/pantry/herbs-spices-and-seasonings/3000000000000152987",
+            "data-gtm-id": "PetCategory07",
+            "data-gtm-position": "Pet Category 07",
+            "data-gtm-name": "Herbs, Spices & Seasonings",
+            "data-gtm-creative": "Herbs, Spices & Seasonings"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Spices_Pantry_Cat",
+            "alt": "Herbs, Spices & Seasonings"
+          },
+          "label": "Herbs, Spices & Seasonings"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/pantry/canned-fruit-and-pouches/3000000000000248019",
+            "data-gtm-id": "PetCategory08",
+            "data-gtm-position": "Pet Category 08",
+            "data-gtm-name": "Canned Fruit & Pouches",
+            "data-gtm-creative": "Canned Fruit & Pouches"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/CannedFruit_Pantry_Cat",
+            "alt": "Canned Fruit & Pouches"
+          },
+          "label": "Canned Fruit & Pouches"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/pantry/canned-vegetables-beans-and-legumes/3000000000000248021",
+            "data-gtm-id": "PetCategory09",
+            "data-gtm-position": "Pet Category 09",
+            "data-gtm-name": "Canned Vegetables, Beans & Legumes",
+            "data-gtm-creative": "Canned Vegetables, Beans & Legumes"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Legumes_Pantry_Cat",
+            "alt": "Canned Vegetables, Beans & Legumes"
+          },
+          "label": "Canned Vegetables, Beans & Legumes"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/pantry/canned-meat-and-fish/3000000000000248020",
+            "data-gtm-id": "PetCategory010",
+            "data-gtm-position": "Pet Category 010",
+            "data-gtm-name": "Canned Meat & Fish",
+            "data-gtm-creative": "Canned Meat & Fish"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/MeatFish_Pantry_Cat",
+            "alt": "Canned Meat & Fish"
+          },
+          "label": "Canned Meat & Fish"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/pantry/canned-packaged-meals-and-sides/3000000000000248024",
+            "data-gtm-id": "PetCategory011",
+            "data-gtm-position": "Pet Category 011",
+            "data-gtm-name": "Canned Packaged Meals & Sides",
+            "data-gtm-creative": "Canned Packaged Meals & Sides"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Packaged_Pantry_Cat",
+            "alt": "Canned Packaged Meals & Sides"
+          },
+          "label": "Canned Packaged Meals & Sides"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/pantry/pasta-rice-and-grains/3000000000000248025",
+            "data-gtm-id": "PetCategory012",
+            "data-gtm-position": "Pet Category 012",
+            "data-gtm-name": "Pasta, Rice & Grains",
+            "data-gtm-creative": "Pasta, Rice & Grains"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Pasta_Pantry_Cat",
+            "alt": "Pasta, Rice & Grains"
+          },
+          "label": "Pasta, Rice & Grains"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/pantry/soups-ramen-and-broth/3000000000000248026",
+            "data-gtm-id": "PetCategory013",
+            "data-gtm-position": "Pet Category 013",
+            "data-gtm-name": "Soups, Ramen & Broth",
+            "data-gtm-creative": "Soups, Ramen & Broth"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Soup_Pantry_Cat",
+            "alt": "Soups, Ramen & Broth"
+          },
+          "label": "Soups, Ramen & Broth"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/pantry/sweeteners-and-sugar-packets/3000000000000248027",
+            "data-gtm-id": "PetCategory014",
+            "data-gtm-position": "Pet Category 014",
+            "data-gtm-name": "Sweeteners & Sugar Packets",
+            "data-gtm-creative": "Sweeteners & Sugar Packets"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Sweetener_Pantry_Cat",
+            "alt": "Sweeteners & Sugar Packets"
+          },
+          "label": "Sweeteners & Sugar Packets"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/breakfast/peanut-butter-and-jelly/3000000000000247999",
+            "data-gtm-id": "PetCategory015",
+            "data-gtm-position": "Pet Category 015",
+            "data-gtm-name": "Peanut Butter & Jelly",
+            "data-gtm-creative": "Peanut Butter & Jelly"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/PBJ_Pantry_Cat",
+            "alt": "Peanut Butter & Jelly"
+          },
+          "label": "Peanut Butter & Jelly"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/pantry/international-foods/3000000000000248023",
+            "data-gtm-id": "PetCategory016",
+            "data-gtm-position": "Pet Category 016",
+            "data-gtm-name": "International Foods",
+            "data-gtm-creative": "International Foods"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/International_Pantry_Cat",
+            "alt": "International Foods"
+          },
+          "label": "International Foods"
+        }
+      ]
+    },
+    "bottom": {
+      "cards": [
+        {
+          "image": {
+            "mobileSrc": "https://bjs.scene7.com/is/image/bjs/BTS_Snacks_CLP_Mobile",
+            "desktopSrc": "https://bjs.scene7.com/is/image/bjs/BTS_Snacks_CLP_Full",
+            "alt": "Teacher approved. Treat the children in your life to something special. Click here to shop snacks"
+          },
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/seasonal/back-to-school/lunch-and-snack-time/3000000000000231490",
+            "data-gtm-id": "Pantry21",
+            "data-gtm-position": "PantryCLP Bottom 01",
+            "data-gtm-name": "Pantry Supplies",
+            "data-gtm-creative": "Pantry Supplies"
+          }
+        }
+      ]
+    },
+    "seo": {
+      "seo": "\n    <h2>\n      Complete Your Kitchen with Our Range of Pantry Staples &amp; Canned Goods\n    </h2>\n\n    <p>\n      A well-stocked pantry is essential for any kitchen. At BJ's Wholesale\n      Club, we understand the importance of having a variety of pantry staples\n      and canned goods readily available for meal planning and cooking. Our\n      range of high-quality pantry staples and canned goods are not only\n      affordable but also versatile and can help make meal planning a breeze.\n    </p>\n    <ul>\n      <li>\n        <h3>Why You Need Pantry Staples and Canned Goods</h3>\n        <p>\n          Having a well-stocked pantry can have numerous benefits. With a\n          variety of pantry staples and canned goods at your disposal, meal\n          planning becomes much easier. Whether you're preparing a quick\n          weeknight dinner or cooking a large family meal, you'll have\n          everything you need on hand. The versatility of pantry staples and\n          canned goods is also a major advantage, as they can be used in a\n          variety of dishes, making mealtime more enjoyable.\n        </p>\n      </li>\n      <li>\n        <h3>Wide Range of Pantry Staples and Canned Goods</h3>\n        <p>\n          At BJ's Wholesale Club, we offer a wide range of pantry staples and\n          canned goods from top brands. From <a href=\"https://www.bjs.com/category/grocery/pantry/pasta-rice-and-grains/3000000000000248025\">pasta and rice</a> to <a href=\"https://www.bjs.com/category/grocery/pantry/marinades-and-sauces/3000000000000125965\">sauces</a> and\n          <a href=\"https://www.bjs.com/category/grocery/pantry/salad-dressing-and-fixings/3000000000000125962\">dressings</a>, we have everything you need to keep your pantry\n          well-stocked. Our products are not only of the highest quality but\n          also affordable, so you can stock up without breaking the bank.\n        </p>\n      </li>\n      <li>\n        <h3>Canned Foods</h3>\n        <p>\n          Canned foods are a pantry staple for a reason. They are convenient,\n          versatile, and a great option for those who are short on time. From\n          <a href=\"https://www.bjs.com/category/grocery/pantry/canned-fruit-and-pouches/3000000000000248019\">fruits</a> and <a href=\"https://www.bjs.com/category/grocery/pantry/canned-vegetables-beans-and-legumes/3000000000000248021\">vegetables</a> to <a href=\"https://www.bjs.com/category/grocery/pantry/soups-ramen-and-broth/3000000000000248026\">soups</a> and <a href=\"https://www.bjs.com/category/grocery/pantry/canned-meat-and-fish/3000000000000248020\">canned meat &amp; fish</a>, these convenient foods can be used in\n          a variety of dishes and are a great way to add nutrition to your diet.\n          At BJ's Wholesale Club, we offer a wide range of canned foods from top\n          brands, so you can find the perfect ingredients for your next meal.\n        </p>\n      </li>\n      <li>\n        <h3>Pasta, Potatoes, and Grains</h3>\n        <p>\n          Pasta, potatoes, and grains are essential pantry staples that can be\n          used in a variety of dishes. They are a great source of carbohydrates\n          and can help you feel full and satisfied. At BJ's Wholesale Club, we\n          offer a wide range of pasta, potatoes, and grains, so you can find the\n          perfect ingredients for your next meal.\n        </p>\n      </li>\n      <li>\n        <h3>Sauces, Condiments, and Dressings</h3>\n        <p>\n          Sauces, condiments, and dressings are an essential part of any\n          well-stocked pantry. They add flavor and nutrition to your meals and\n          can help you turn a boring dish into a delicious meal. At BJ's\n          Wholesale Club, we offer a wide range of sauces, condiments, and\n          dressings from top brands, so you can find the perfect ingredients for\n          your next meal.\n        </p>\n      </li>\n    </ul>\n    <p>\n      At BJ's Wholesale Club, we understand the importance of having a\n      well-stocked pantry. That's why we offer a wide range of high-quality\n      pantry staples and canned goods at affordable prices. Whether you're\n      looking for <a href=\"https://www.bjs.com/category/grocery/pantry/oil-and-vinegar/3000000000000125961\">oil &amp; vinegar</a>, <a href=\"https://www.bjs.com/category/grocery/pantry/herbs-spices-and-seasonings/3000000000000152987\"> herbs &amp; spices</a>, <a href=\"https://www.bjs.com/category/grocery/pantry/pickles-peppers-and-olives/3000000000000125967\">pickles</a>, <a href=\"https://www.bjs.com/category/grocery/pantry/condiments/3000000000000125964\">condiments</a>, <a href=\"https://www.bjs.com/category/grocery/pantry/packaged-meals-and-sides/3000000000000248024\">packaged meals</a> or <a href=\"https://www.bjs.com/category/grocery/breakfast/peanut-butter-and-jelly/3000000000000247999\">peanut butter &amp; jelly</a>, we have everything you need\n      to keep your pantry well-stocked. Browse our selection today and discover\n      why BJ's Wholesale Club is the best place to purchase pantry staples and\n      canned goods.\n    </p>\n  "
+    }
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "status": {
+    "top": {
+      "imageData": {
+        "image": {
+          "mobileSrc": "https://bjs.scene7.com/is/image/bjs/Meat_CLP_Mobile",
+          "desktopSrc": "https://bjs.scene7.com/is/image/bjs/Meat_CLP_Full",
+          "alt": "Meat - grill up some grub with our family cuts!"
+        },
+        "clickthrough": "Not Clickable"
+      },
+      "textData": {
+        "clickthrough": {
+          "href": "https://www.bjs.com/category/grocery/meat-grocery/3000000000000248488?ShopAll=Y&template=clp",
+          "data-gtm-id": "MeatCLP01",
+          "data-gtm-position": "MeatCLP Top 01",
+          "data-gtm-name": "Shop All Meat",
+          "data-gtm-creative": "Shop All Meat"
+        },
+        "titleTextData": {
+          "title": "Discover show-stopping cuts & family favorites.",
+          "copy": "",
+          "cta": "Shop all meat"
+        }
+      }
+    },
+    "bubbles": {
+      "title": "Shop By Category",
+      "bubbles": [
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/meat/wellsley-farms-butcher/3000000000000248015",
+            "data-gtm-id": "PetCategory01",
+            "data-gtm-position": "Pet Category 01",
+            "data-gtm-name": "Wellsley Farms Butcher",
+            "data-gtm-creative": "Wellsley Farms Butcher"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/WF_Pantry_Cat",
+            "alt": "Wellsley Farms Butcher"
+          },
+          "label": "Wellsley Farms Butcher"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/meat/ground-meat-and-burgers/3000000000000248016",
+            "data-gtm-id": "PetCategory02",
+            "data-gtm-position": "Pet Category 02",
+            "data-gtm-name": "Ground Meat & Burgers",
+            "data-gtm-creative": "Ground Meat & Burgers"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Ground_Meat_Cat",
+            "alt": "Ground Meat & Burgers"
+          },
+          "label": "Ground Meat & Burgers"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/meat/beef-and-bison/3000000000000117237",
+            "data-gtm-id": "PetCategory03",
+            "data-gtm-position": "Pet Category 03",
+            "data-gtm-name": "Beef & Bison",
+            "data-gtm-creative": "Beef & Bison"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/BeefBison_Meat_Cat",
+            "alt": "Beef & Bison"
+          },
+          "label": "Beef & Bison"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/meat/lamb/3000000000000117240",
+            "data-gtm-id": "PetCategory04",
+            "data-gtm-position": "Pet Category 04",
+            "data-gtm-name": "Lamb",
+            "data-gtm-creative": "Lamb"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Lamb_Meat_Cat",
+            "alt": "Lamb"
+          },
+          "label": "Lamb"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/meat/pork/3000000000000117238",
+            "data-gtm-id": "PetCategory05",
+            "data-gtm-position": "Pet Category 05",
+            "data-gtm-name": "Pork",
+            "data-gtm-creative": "Pork"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Pork_Meat_Cat",
+            "alt": "Pork"
+          },
+          "label": "Pork"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/meat/chicken-and-poultry/3000000000000117239",
+            "data-gtm-id": "PetCategory06",
+            "data-gtm-position": "Pet Category 06",
+            "data-gtm-name": "Chicken & Poultry",
+            "data-gtm-creative": "Chicken & Poultry"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Poultry_Meat_Cat",
+            "alt": "Chicken & Poultry"
+          },
+          "label": "Chicken & Poultry"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/meat/frozen-plant-based-meat/3000000000000117319",
+            "data-gtm-id": "PetCategory07",
+            "data-gtm-position": "Pet Category 07",
+            "data-gtm-name": "Frozen Plant Based Meat",
+            "data-gtm-creative": "Frozen Plant Based Meat"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/PlantBased_Frozen_Cat",
+            "alt": "Frozen Plant Based Meat"
+          },
+          "label": "Frozen Plant Based Meat"
+        }
+      ]
+    },
+    "bottom": {
+      "cards": [
+        {
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Organic_CLP_3x",
+            "alt": "Raise the steaks. Wholesome meats you can feel good about. Click here to shop organic meat"
+          },
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/meat-grocery/3000000000000248488?visualVariant.nonvisualVariant.gbi_Merged_concern=Organic",
+            "data-gtm-id": "Meat21",
+            "data-gtm-position": "MeatCLP Bottom 01",
+            "data-gtm-name": "Organic Meat",
+            "data-gtm-creative": "Organic Meat"
+          }
+        },
+        {
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Veggies_CLP_3x",
+            "alt": "Taste of freshness. Make fruits and vegetables part of every meal. Click here to shop fresh produce"
+          },
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/produce/fresh-vegetables/3000000000000117250",
+            "data-gtm-id": "Meat22",
+            "data-gtm-position": "MeatCLP Bottom 02",
+            "data-gtm-name": "Fresh Produce",
+            "data-gtm-creative": "Fresh Produce"
+          }
+        },
+        {
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Grilling_CLP_3x",
+            "alt": "Get your grill on. Explore ingredients for the perfect BBQ. Click here to shop grilling favorites"
+          },
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/seasonal/summer-seasonal/fire-up-the-grill/3000000000000251488",
+            "data-gtm-id": "Meat23",
+            "data-gtm-position": "MeatCLP Bottom 03",
+            "data-gtm-name": "Grilling Favorites",
+            "data-gtm-creative": "Grilling Favorites"
+          }
+        }
+      ]
+    },
+    "seo": {
+      "seo": "\n    <h2>Experience the Best in Fresh Meat and Premium Cuts</h2>\n\n    <p>\n      At BJ's Wholesale Club you'll find the best selection of fresh meats and\n      premium cuts of meat. Our focus is on providing you with the highest\n      quality and freshest meats, so you can enjoy great-tasting meals every\n      day.\n    </p>\n\n    <h2>Fresh Meats at BJ's:</h2>\n    <ul>\n      <li>\n        <h3>Unmatched Quality and Freshness:</h3>\n        <p>\n          At BJ's Wholesale Club, we understand the importance of freshness and\n          quality when it comes to meat. That's why we work tirelessly to ensure\n          that all of our meats are always fresh and of the highest quality.\n        </p>\n      </li>\n      <li>\n        <h3>Variety of Meats to Choose From:</h3>\n        <p>\n          At BJ's, you'll find a wide variety of meats to choose from, including\n          <a href=\"https://www.bjs.com/category/grocery/meat/ground-meat-and-burgers/3000000000000248016\"> beef</a>, <a href=\"https://www.bjs.com/category/grocery/meat/pork/3000000000000117238\"> pork</a>, <a href=\"https://www.bjs.com/category/grocery/meat/lamb/3000000000000117240\"> lamb</a> and chicken. No matter what your taste preferences are,\n          we've got something for everyone\n        </p>\n        .\n      </li>\n    </ul>\n\n    <h2>Premium Cuts of Meat</h2>\n    <ul>\n      <li>\n        <h3>What Makes a Cut of Meat Premium?</h3>\n        <p>\n          A premium cut of meat is characterized by its marbling, tenderness,\n          and flavor. These factors combine to create a meat that is both\n          delicious and satisfying.\n        </p>\n      </li>\n\n      <li>\n        <h3>Grass-Fed Beef</h3>\n        <p>\n          Grass-fed <a href=\"https://www.bjs.com/category/grocery/meat/beef-and-bison/3000000000000117237\"> beef</a> is considered a premium cut of meat because of its\n          superior nutritional value and rich, bold flavor.\n        </p>\n        <ul>\n          <li>\n            <h4>Superior Nutritional Value:</h4>\n            <p>\n              Grass-fed beef is a great source of essential vitamins and\n              minerals, including Vitamin B12, Omega-3 fatty acids, and iron.\n            </p>\n          </li>\n          <li>\n            <h4>Rich, Bold Flavor:</h4>\n            <p>\n              The rich, bold flavor of grass-fed beef makes it the perfect\n              choice for any meal. Whether you're grilling steaks or\n              slow-cooking a roast, you'll love the taste of grass-fed beef.\n            </p>\n          </li>\n        </ul>\n      </li>\n\n      <li>\n        <h3>Free-Range Chicken</h3>\n        <p>\n          Free-range <a href=\"https://www.bjs.com/category/grocery/meat/chicken-and-poultry/3000000000000117239\"> chicken</a> is another popular premium cut of meat that is\n          loved for its tender and juicy meat and superior flavor profile.\n        </p>\n        <ul>\n          <li>\n            <h4>Tender and Juicy Meat:</h4>\n            <p>\n              Free-range chicken is raised in a way that allows it to move and\n              exercise, resulting in tender and juicy meat.\n            </p>\n          </li>\n          <li>\n            <h4>Superior Flavor Profile:</h4>\n            <p>\n              Free-range chicken has a rich, full flavor that is perfect for any\n              dish. Whether you're making a stir-fry or roasting a chicken,\n              you'll love the taste of free-range chicken.\n            </p>\n          </li>\n        </ul>\n      </li>\n    </ul>\n    <p>\n      At BJ's Wholesale Club, you'll find a great selection of fresh meats and\n      premium cuts of meat including an assortment from BJ's exclusive brand, <a href=\"https://www.bjs.com/category/grocery/meat/from-our-butcher/3000000000000248015\"> Wellsley Farms</a>. Our focus is on providing you with the highest\n      quality and freshest meats, so you can enjoy great-tasting meals every\n      day. Visit us today and start shopping for fresh meat.\n    </p>\n  "
+    }
+  }
+}

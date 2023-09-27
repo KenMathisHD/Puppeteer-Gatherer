@@ -1,0 +1,121 @@
+{
+  "status": {
+    "top": {
+      "imageData": {
+        "image": {
+          "mobileSrc": "https://bjs.scene7.com/is/image/bjs/PreparedFood_CLP_Mobile",
+          "desktopSrc": "https://bjs.scene7.com/is/image/bjs/PreparedFood_CLP_Full",
+          "alt": "Prepared Food - sides, dips and salsa from our kitchen!"
+        },
+        "clickthrough": "Not Clickable"
+      },
+      "textData": {
+        "clickthrough": {
+          "href": "https://www.bjs.com/category/grocery/prepared-foods/3000000000000248028?ShopAll=Y&template=clp",
+          "data-gtm-id": "Prepared FoodCLP01",
+          "data-gtm-position": "Prepared FoodCLP Top 01",
+          "data-gtm-name": "Shop All Prepared Food",
+          "data-gtm-creative": "Shop All Prepared Food"
+        },
+        "titleTextData": {
+          "title": "Go ahead, take all the credit.",
+          "copy": "",
+          "cta": "Shop all prepared foods"
+        }
+      }
+    },
+    "bubbles": {
+      "title": "Shop By Category",
+      "bubbles": [
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/prepared-foods/wellsley-farms-kitchen/3000000000000248029",
+            "data-gtm-id": "PetCategory01",
+            "data-gtm-position": "Pet Category 01",
+            "data-gtm-name": "Wellsley Farms Kitchen",
+            "data-gtm-creative": "Wellsley Farms Kitchen"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/WF_Pantry_Cat",
+            "alt": "Wellsley Farms Kitchen"
+          },
+          "label": "Wellsley Farms Kitchen"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/prepared-foods/prepared-meals-and-sides/3000000000000248031",
+            "data-gtm-id": "PetCategory02",
+            "data-gtm-position": "Pet Category 02",
+            "data-gtm-name": "Prepared Meals & Sides",
+            "data-gtm-creative": "Prepared Meals & Sides"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Sides_Prepared_Cat",
+            "alt": "Prepared Meals & Sides"
+          },
+          "label": "Prepared Meals & Sides"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/prepared-foods/hummus-dips-and-salsa/3000000000000248030",
+            "data-gtm-id": "PetCategory03",
+            "data-gtm-position": "Pet Category 03",
+            "data-gtm-name": "Hummus, Dips & Salsa",
+            "data-gtm-creative": "Hummus, Dips & Salsa"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Dips_Prepared_Cat",
+            "alt": "Hummus, Dips & Salsa"
+          },
+          "label": "Hummus, Dips & Salsa"
+        }
+      ]
+    },
+    "bottom": {
+      "cards": [
+        {
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/PreparedFood_CLP_3x",
+            "alt": "Dinner is served. Grab and go meals for easy weeknight delights. Click here to shop BJ's kitchen"
+          },
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/perpared-foods/from-our-kitchen/3000000000000248029",
+            "data-gtm-id": "PreparedFood21",
+            "data-gtm-position": "PreparedFoodCLP Bottom 01",
+            "data-gtm-name": "BJ's Kitchen",
+            "data-gtm-creative": "BJ's Kitchen"
+          }
+        },
+        {
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Dips_CLP_3x",
+            "alt": "Dive into this. Explore spreads and salsas to gather everyone together. Click here to shop dips"
+          },
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/perpared-foods/hummus-dips-and-salsa/3000000000000248030",
+            "data-gtm-id": "PreparedFood22",
+            "data-gtm-position": "PreparedFoodCLP Bottom 02",
+            "data-gtm-name": "Dips",
+            "data-gtm-creative": "Dips"
+          }
+        },
+        {
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Chips_CLP_3x",
+            "alt": "Crunchy and munchy. Discover a wide variety of top-brand snacks. Click here to shop chips"
+          },
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/snacks/chips/3000000000000248047",
+            "data-gtm-id": "PreparedFood23",
+            "data-gtm-position": "PreparedFoodCLP Bottom 03",
+            "data-gtm-name": "Chips",
+            "data-gtm-creative": "Chips"
+          }
+        }
+      ]
+    },
+    "seo": {
+      "seo": "\n    <h2>Healthy and Convenient Meal Solutions for Busy Lifestyles</h2>\n\n    <p>\n      We understand that life can be hectic and finding the time to cook a\n      healthy and delicious meal can be a challenge. That's why BJ’s Wholesale\n      Club has made it easy for you to enjoy healthy, fresh, and convenient food\n      options.\n    </p>\n\n    <ul>\n      <li>\n        <h3>\n          Ready-Made Meals - Healthy and Delicious Options for Lunch and Dinner\n        </h3>\n        <p>\n          Our <a href=\"https://www.bjs.com/category/grocery/prepared-foods/from-our-kitchen/3000000000000248029\"> Wellsley Farms ready-made meals</a> are a great option for those who want a healthy\n          and tasty lunch or dinner without the hassle of cooking. With a\n          variety of options to choose from, you're sure to find something that\n          fits your tastes and dietary needs. Whether you're looking for a\n          vegetarian option or a protein-packed dish, we have you covered. All\n          of our ready-made meals are made with fresh ingredients and are\n          perfect for busy lifestyles.\n        </p>\n      </li>\n\n      <li>\n        <h3>Meal Solutions - Sides to Complete Any Meal</h3>\n        <p>\n          Our meal solutions are a perfect complement to any meal. From mashed\n          potatoes to steamed vegetables, our <a href=\"https://www.bjs.com/category/grocery/prepared-foods/prepared-meals-and-sides/3000000000000248031\">sides</a> make it easy to round out\n          your dinner. And, with our pre-packaged food, you can enjoy the\n          convenience of having everything you need for a complete meal in one\n          package.\n        </p>\n      </li>\n\n      <li>\n        <h3>Rotisserie Chicken - Tasty and Convenient</h3>\n        <p>\n          Our rotisserie chickens are a member favorite! These tasty birds are\n          roasted to perfection in-club and make a great addition to any meal.\n          Whether you're looking for a quick lunch or a dinner solution, our\n          rotisserie <a href=\"https://www.bjs.com/category/grocery/meat/chicken-and-poultry/3000000000000117239\"> chickens</a> are a convenient and delicious option.\n        </p>\n      </li>\n    </ul>\n\n    <p>\n      BJ’s selection of ready-made meals, meal solutions, dips and rotisserie\n      chickens offer a convenient and healthy solution for busy lifestyles. From\n      online ordering to home delivery, we make it easy for you to enjoy tasty\n      and nutritious food. So why not try something new and start shopping on <a href=\"https://www.bjs.com/\">BJs.com</a> now?\n    </p>\n  "
+    }
+  }
+}

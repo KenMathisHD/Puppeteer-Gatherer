@@ -1,0 +1,193 @@
+{
+  "status": {
+    "top": {
+      "imageData": {
+        "image": {
+          "mobileSrc": "https://bjs.scene7.com/is/image/bjs/WellsleyFarms_CLP_Mobile",
+          "desktopSrc": "\n                https://bjs.scene7.com/is/image/bjs/WellsleyFarms_CLP_Full\n              ",
+          "alt": "WellsleyFarms - shrimp pasta and other deliious foodstuffs!"
+        },
+        "clickthrough": "Not Clickable"
+      },
+      "textData": {
+        "clickthrough": {
+          "href": "https://www.bjs.com/category/wellsley-farms/3000000000000248053?ShopAll=Y&template=clp",
+          "data-gtm-id": "WellsleyFarmsCLP01",
+          "data-gtm-position": "WellsleyFarmsCLP Top 01",
+          "data-gtm-name": "Shop All Wellsley Farms",
+          "data-gtm-creative": "Shop All Wellsley Farms"
+        },
+        "titleTextData": {
+          "title": "Discover quality & taste you only find at BJ’s.",
+          "copy": "",
+          "cta": "Shop all Wellsley Farms"
+        }
+      }
+    },
+    "bubbles": {
+      "title": "Shop By Category",
+      "bubbles": [
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/produce/wellsley-farms-produce/3000000000000248034",
+            "data-gtm-id": "PetCategory01",
+            "data-gtm-position": "Pet Category 01",
+            "data-gtm-name": "Wellsley Farms Produce",
+            "data-gtm-creative": "Wellsley Farms Produce"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Produce_WF_Cat",
+            "alt": "Wellsley Farms Produce"
+          },
+          "label": "Wellsley Farms Produce"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/wellsley-farms/wellsley-farms-coffee-shop/3000000000000247989",
+            "data-gtm-id": "PetCategory02",
+            "data-gtm-position": "Pet Category 02",
+            "data-gtm-name": "Wellsley Farms Coffee Shop",
+            "data-gtm-creative": "Wellsley Farms Coffee Shop"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Coffee_WF_Cat",
+            "alt": "Wellsley Farms Coffee Shop"
+          },
+          "label": "Wellsley Farms Coffee Shop"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/wellsley-farms/wellsley-farms-bakery/3000000000000247496",
+            "data-gtm-id": "PetCategory03",
+            "data-gtm-position": "Pet Category 03",
+            "data-gtm-name": "Wellsley Farms Bakery",
+            "data-gtm-creative": "Wellsley Farms Bakery"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Bakery_WF_Cat",
+            "alt": "Wellsley Farms Bakery"
+          },
+          "label": "Wellsley Farms Bakery"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/pantry/wellsley-farms-pantry/3000000000000248022",
+            "data-gtm-id": "PetCategory04",
+            "data-gtm-position": "Pet Category 04",
+            "data-gtm-name": "Wellsley Farms Pantry",
+            "data-gtm-creative": "Wellsley Farms Pantry"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Pantry_WF_Cat",
+            "alt": "Wellsley Farms Pantry"
+          },
+          "label": "Wellsley Farms Pantry"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/wellsley-farms/wellsley-farms-snack-shop/3000000000000248049",
+            "data-gtm-id": "PetCategory05",
+            "data-gtm-position": "Pet Category 05",
+            "data-gtm-name": "Wellsley Farms Snack Shop",
+            "data-gtm-creative": "Wellsley Farms Snack Shop"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Snacks_WF_Cat",
+            "alt": "Wellsley Farms Snack Shop"
+          },
+          "label": "Wellsley Farms Snack Shop"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/meat/wellsley-farms-butcher/3000000000000248015",
+            "data-gtm-id": "PetCategory06",
+            "data-gtm-position": "Pet Category 06",
+            "data-gtm-name": "Wellsley Farms Butcher",
+            "data-gtm-creative": "Wellsley Farms Butcher"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Butcher_WF_Cat",
+            "alt": "Wellsley Farms Butcher"
+          },
+          "label": "Wellsley Farms Butcher"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/seafood/wellsley-farms-seafood/3000000000000248035",
+            "data-gtm-id": "PetCategory07",
+            "data-gtm-position": "Pet Category 07",
+            "data-gtm-name": "Wellsley Farms Seafood",
+            "data-gtm-creative": "Wellsley Farms Seafood"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/FishCounter_Seafood_Cat",
+            "alt": "Wellsley Farms Seafood"
+          },
+          "label": "Wellsley Farms Seafood"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/wellsley-farms/wellsley-farms-frozen/3000000000000248014",
+            "data-gtm-id": "PetCategory08",
+            "data-gtm-position": "Pet Category 08",
+            "data-gtm-name": "Wellsley Farms Frozen",
+            "data-gtm-creative": "Wellsley Farms Frozen"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Frozen_WF_Cat",
+            "alt": "Wellsley Farms Frozen"
+          },
+          "label": "Wellsley Farms Frozen"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/prepared-foods/wellsley-farms-kitchen/3000000000000248029",
+            "data-gtm-id": "PetCategory09",
+            "data-gtm-position": "Pet Category 09",
+            "data-gtm-name": "Wellsley Farms Kitchen",
+            "data-gtm-creative": "Wellsley Farms Kitchen"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Kitchen_WF_Cat",
+            "alt": "Wellsley Farms Kitchen"
+          },
+          "label": "Wellsley Farms Kitchen"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/deli/wellsley-farms-deli/3000000000000248009",
+            "data-gtm-id": "PetCategory010",
+            "data-gtm-position": "Pet Category 010",
+            "data-gtm-name": "Wellsley Farms Deli",
+            "data-gtm-creative": "Wellsley Farms Deli"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Deli_WF_Cat",
+            "alt": "Wellsley Farms Deli"
+          },
+          "label": "Wellsley Farms Deli"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/dairy/wellsley-farms-dairy/3000000000000248005",
+            "data-gtm-id": "PetCategory011",
+            "data-gtm-position": "Pet Category 011",
+            "data-gtm-name": "Wellsley Farms Dairy",
+            "data-gtm-creative": "Wellsley Farms Dairy"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Dairy_WF_Cat",
+            "alt": "Wellsley Farms Dairy"
+          },
+          "label": "Wellsley Farms Dairy"
+        }
+      ]
+    },
+    "bottom": {
+      "cards": []
+    },
+    "seo": {
+      "seo": "\n    <h2>Wellsley Farms - High-Quality Groceries and Ingredients</h2>\n\n    <p>\n      Wellsley Farms is a brand exclusive to BJ's Wholesale Club that offers\n      high-quality groceries and ingredients to our members. With a focus on\n      freshness and quality, Wellsley Farms is dedicated to providing members\n      with the best possible products.\n    </p>\n    <p>\n      These products can be found in BJ's Wholesale Club stores and on <a href=\"https://www.bjs.com/\"> BJs.com</a>,\n      where members can take advantage of the convenient shopping experience and discover\n      a range of Wellsley Farms products.\n    </p>\n    <ul>\n      <li>\n        <h3>Exceptional Quality and Freshness</h3>\n        <p>\n          Wellsley Farms products are unique because of the brand's commitment\n          to sourcing only the freshest and highest quality ingredients.\n          Additionally, Wellsley Farms offers many organic options for members\n          who prefer healthier ingredients. Whether you're cooking a <a href=\"https://www.bjs.com/category/grocery/prepared-foods/from-our-kitchen/3000000000000248029\"> meal at\n          home</a> or just stocking up your <a href=\"https://www.bjs.com/category/grocery/pantry/from-our-pantry/3000000000000248022\"> pantry</a>, Wellsley Farms has what you\n          need.\n        </p>\n      </li>\n      <li>\n        <h3>Exclusive Benefits for Members</h3>\n        <p>\n          BJ's Wholesale Club offers our members several benefits when shopping\n          for groceries. Not only is the shopping experience convenient, but\n          BJ's also offers a wide range of Wellsley Farms products available\n          in-club. Plus, shoppers who become members of BJ's Wholesale Club can\n          take advantage of the membership benefits and rewards.\n        </p>\n      </li>\n      <li>\n        <h3>Experience the Convenience and Quality</h3>\n        <p>\n          Visit your local BJ's Wholesale Club today to experience the\n          time-saving conveniences of shopping for groceries online and the\n          quality of Wellsley Farms products. Join now to take advantage of the\n          membership benefits and rewards.\n        </p>\n      </li>\n    </ul>\n  "
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "status": {
+    "top": {
+      "imageData": {
+        "image": {
+          "mobileSrc": "https://bjs.scene7.com/is/image/bjs/WeightLoss_CLP_Mobile",
+          "desktopSrc": "https://bjs.scene7.com/is/image/bjs/WeightLoss_CLP_Full",
+          "alt": "Weight loss and Nutrition - powders, supplements and more!"
+        },
+        "clickthrough": "Not Clickable"
+      },
+      "textData": {
+        "clickthrough": {
+          "href": "https://www.bjs.com/category/health-and-beauty/weight-loss-and-nutrition/3000000000000117222?ShopAll=Y",
+          "data-gtm-id": "WeightLossNutritionCLP01",
+          "data-gtm-position": "WeightLossNutritionCLP Top 01",
+          "data-gtm-name": "Shop All Weight Loss and Nutrition",
+          "data-gtm-creative": "Shop All Weight Loss and Nutrition"
+        },
+        "titleTextData": {
+          "title": "Reach all your good-health goals.",
+          "copy": "",
+          "cta": "Shop all weight loss & nutrition"
+        }
+      }
+    },
+    "bubbles": {
+      "title": "Shop By Category",
+      "bubbles": [
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/beverages/nutritional-drinks/3000000000000253497",
+            "data-gtm-id": "PetCategory01",
+            "data-gtm-position": "Pet Category 01",
+            "data-gtm-name": "Nutritional Drinks",
+            "data-gtm-creative": "Nutritional Drinks"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Drinks_Nutrition_Cat",
+            "alt": "Nutritional Drinks"
+          },
+          "label": "Nutritional Drinks"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/weight-loss-and-nutrition/protein-bars-and-snacks/3000000000000253496",
+            "data-gtm-id": "PetCategory02",
+            "data-gtm-position": "Pet Category 02",
+            "data-gtm-name": "Protein Bars & Snacks",
+            "data-gtm-creative": "Protein Bars & Snacks"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Bars_Nutrition_Cat",
+            "alt": "Protein Bars & Snacks"
+          },
+          "label": "Protein Bars & Snacks"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/weight-loss-and-nutrition/powders-and-supplements/3000000000000253498",
+            "data-gtm-id": "PetCategory03",
+            "data-gtm-position": "Pet Category 03",
+            "data-gtm-name": "Powders & Supplements",
+            "data-gtm-creative": "Powders & Supplements"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Supplements_Nutrition_Cat",
+            "alt": "Powders & Supplements"
+          },
+          "label": "Powders & Supplements"
+        }
+      ]
+    },
+    "bottom": {
+      "cards": [
+        {
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/HomeGym_CLP_2x",
+            "alt": "Upgrade your home gym. The right equipment is a fitness game-changer. Click here to shop sports and fitness"
+          },
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/sports-and-fitness/3000000000000117134",
+            "data-gtm-id": "WeightLossNutrition21",
+            "data-gtm-position": "WeightLossNutritionCLP Bottom 01",
+            "data-gtm-name": "Sports and Fitness",
+            "data-gtm-creative": "Sports and Fitness"
+          }
+        },
+        {
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/SmartWatch_CLP_2x",
+            "alt": "Track your progress in style. Explore smart watches to keep tabs on your goals. Click here to shop wearable technology"
+          },
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/computers-and-tablets/wearable-technology/3000000000000082953",
+            "data-gtm-id": "WeightLossNutrition22",
+            "data-gtm-position": "WeightLossNutritionCLP Bottom 02",
+            "data-gtm-name": "Wearable Technology",
+            "data-gtm-creative": "Wearable Technology"
+          }
+        }
+      ]
+    },
+    "seo": ""
+  }
+}

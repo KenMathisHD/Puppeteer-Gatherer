@@ -1,0 +1,108 @@
+{
+  "status": {
+    "top": {
+      "imageData": {
+        "image": {
+          "mobileSrc": "https://bjs.scene7.com/is/image/bjs/BakingIngredients_CLP_Mobile",
+          "desktopSrc": "\n                https://bjs.scene7.com/is/image/bjs/BakingIngredients_CLP_Full\n              ",
+          "alt": "Baking Ingredients - from mixes to utensils and some things in-between!"
+        },
+        "clickthrough": "Not Clickable"
+      },
+      "textData": {
+        "clickthrough": {
+          "href": "https://www.bjs.com/category/grocery/baking-ingredients/3000000000000247503?ShopAll=Y&template=clp",
+          "data-gtm-id": "Baking IngredientsCLP01",
+          "data-gtm-position": "Baking IngredientsCLP Top 01",
+          "data-gtm-name": "Shop All Baking Ingredients",
+          "data-gtm-creative": "Shop All Baking Ingredients"
+        },
+        "titleTextData": {
+          "title": "Start your fresh baked idea with quality ingredients.",
+          "copy": "",
+          "cta": "Shop all baking ingredients"
+        }
+      }
+    },
+    "bubbles": {
+      "title": "Shop By Category",
+      "bubbles": [
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/baking-ingredients/baking-mixes/3000000000000117278",
+            "data-gtm-id": "PetCategory01",
+            "data-gtm-position": "Pet Category 01",
+            "data-gtm-name": "Baking Mixes",
+            "data-gtm-creative": "Baking Mixes"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Mixes_Baking_Cat",
+            "alt": "Baking Mixes"
+          },
+          "label": "Baking Mixes"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/baking-ingredients/flour-meal-and-sugar/3000000000000247506",
+            "data-gtm-id": "PetCategory02",
+            "data-gtm-position": "Pet Category 02",
+            "data-gtm-name": "Flour, Meal & Sugar",
+            "data-gtm-creative": "Flour, Meal & Sugar"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Flour_Baking_Cat",
+            "alt": "Flour, Meal & Sugar"
+          },
+          "label": "Flour, Meal & Sugar"
+        },
+        {
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/baking-ingredients/baking-needs/3000000000000247505",
+            "data-gtm-id": "PetCategory03",
+            "data-gtm-position": "Pet Category 03",
+            "data-gtm-name": "Baking Needs",
+            "data-gtm-creative": "Baking Needs"
+          },
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Needs_Baking_Cat",
+            "alt": "Baking Needs"
+          },
+          "label": "Baking Needs"
+        }
+      ]
+    },
+    "bottom": {
+      "cards": [
+        {
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Homemade_CLP_2x",
+            "alt": "Bake it yourself. Pantry staples to make anything homemade. Click here to shop at home baking"
+          },
+          "clickthrough": {
+            "href": "https://www.bjs.com/category/grocery/baking-ingredients/baking-needs/3000000000000247505",
+            "data-gtm-id": "BakingIngredients21",
+            "data-gtm-position": "BakingIngredientsCLP Bottom 01",
+            "data-gtm-name": "At Home Baking",
+            "data-gtm-creative": "At Home Baking"
+          }
+        },
+        {
+          "image": {
+            "source": "https://bjs.scene7.com/is/image/bjs/Recipes_CLP_2x",
+            "alt": "Try something new. Discover recipes to excite and impress. Click here to explore recipes"
+          },
+          "clickthrough": {
+            "href": "https://www.bjs.com/blog/?category=7-d6afb89f83-mj6jmw",
+            "data-gtm-id": "BakingIngredients22",
+            "data-gtm-position": "BakingIngredientsCLP Bottom 02",
+            "data-gtm-name": "Recipes",
+            "data-gtm-creative": "Recipes"
+          }
+        }
+      ]
+    },
+    "seo": {
+      "seo": "\n    <h2>\n      Discover High-Quality Baking Ingredients and Cooking Supplies at BJ's\n      Wholesale Club\n    </h2>\n\n    <p>\n      Are you searching for top-notch baking ingredients and cooking supplies to\n      enhance your kitchen creations? Look no further than BJ's Wholesale Club.\n      Our vast assortment of baking ingredients and cooking necessities is\n      designed to elevate your baking and cooking experiences to new heights.\n    </p>\n    <ul>\n      <li>\n        <h3>Elevate Your Baking with Premium Ingredients</h3>\n        <p>\n          Baking requires a diverse range of high-quality ingredients, such as\n          <a href=\"https://www.bjs.com/category/grocery/baking-ingredients/flour-meal-and-sugar/3000000000000247506\">flour</a>, sugar, baking powder, baking soda, and yeast. At BJ's Wholesale\n          Club, we recognize the significance of using superior ingredients in\n          your baking endeavors. Hence, we offer an extensive selection of\n          premium baking ingredients and <a href=\"https://www.bjs.com/category/grocery/baking-ingredients/baking-mixes/3000000000000117278\">baking mixes</a> that will take your baked goods to the next\n          level of deliciousness.\n        </p>\n      </li>\n      <li>\n        <h3>Equip Your Kitchen with the Right Cooking Supplies</h3>\n        <p>\n          In addition to baking ingredients, having the appropriate cooking\n          supplies is vital for a thriving kitchen. BJ's Wholesale Club presents\n          a wide variety of essential cooking needs, including <a href=\"https://www.bjs.com/category/home/housewares/cookware/648\"> pots and pans</a>,\n          <a href=\"https://www.bjs.com/category/home/housewares/bakeware/3000000000000014003\">bakeware</a>, and <a href=\"https://www.bjs.com/category/appliances/small-kitchen-appliances/610\">small kitchen appliances</a>. With our high-quality\n          products, you can have utmost confidence in your culinary skills and\n          create mouthwatering meals for your loved ones.\n        </p>\n      </li>\n      <li>\n        <h3>Enjoy the Benefits of Shopping at BJ's Wholesale Club</h3>\n        <p>\n          There are numerous advantages to shopping for baking ingredients and\n          <a href=\"https://www.bjs.com/category/grocery/baking-ingredients/baking-needs/3000000000000247505\">cooking supplies</a> at BJ's Wholesale Club. Our extensive range of\n          products ensures that you can find precisely what you need to equip\n          your kitchen. Furthermore, our competitive prices allow you to stock\n          up on pantry staples without straining your budget. With our\n          convenient shopping experience, you can effortlessly locate your\n          desired items and swiftly return to your culinary haven.\n        </p>\n      </li>\n      <li>\n        <h3>Experience Unparalleled Value at BJ's Wholesale Club</h3>\n        <p>\n          BJ's Wholesale Club is the ultimate destination for all your baking\n          ingredients and cooking needs. With our broad assortment of\n          high-quality products, affordable prices, and seamless shopping\n          experience, we guarantee that you'll receive exceptional value for\n          your investment. Embark on your shopping journey today and witness the\n          remarkable difference firsthand!\n        </p>\n      </li>\n    </ul>\n  "
+    }
+  }
+}
